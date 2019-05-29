@@ -10,7 +10,7 @@ So you went back home.
 
 Even without an engine, you could leap and climb. So you crouched on a roof, a ridiculous gargoyle still wearing your tattered civilian clothes. Clothes which were now far too small, of course - but you don't need to fear the cold, anymore. CORAL and CERULEAN have a plan, they said, to get you something nice to wear.
 
-There was a STRIDER tethered outside. You froze. On each of its six bony legs, the black ribbon of a State Investigator. Its rider must be inside the house, "interviewing" your mums.
+There was a strider tethered outside. You froze. On each of its six bony legs, the black ribbon of a State Investigator. Its rider must be inside the house, "interviewing" your mums.
 
 You'd seen an Investigator once before. And worse, you'd seen her wordeater snake. It looked like nothing more than a white, slimy rope, coiled around the arms of the Investigator - but the way the stable staff shrunk back in fear told you all you needed to know. You hoped desperately, that, for all the pain they've caused you, your mums have been spared such means.
 
@@ -18,7 +18,7 @@ You didn't risk going inside. CORAL or CERULEAN could have skewered the inspecto
 
 ---
 
-CORAL watches the platoon of STRIDER cavalry flow over the ridge, the FURNACE orb floating ponderously behind on a web of tethers, oozing a thin trail of oil. A State VECTOR Superior stands perched on a rocky outcrop above them, her sharp, almost bird-like mask giving no hint to her expression. That's no fun. CORAL wants to smash that mask, to see the fear mingling with desire in her eyes as the glass falls away.
+CORAL watches the platoon of strider cavalry flow over the ridge, the FURNACE orb floating ponderously behind on a web of tethers, oozing a thin trail of oil. A State VECTOR Superior stands perched on a rocky outcrop above them, her sharp, almost bird-like mask giving no hint to her expression. That's no fun. CORAL wants to smash that mask, to see the fear mingling with desire in her eyes as the glass falls away.
 
 She can't afford to stay in the Superior's line of sight for too long. CORAL sets off, darting through the trees, rapidly putting distance between herself and her enemy. Alone, even she might find this fight dicey... but now she has a partner.
 
@@ -86,7 +86,7 @@ TWELVE DOCTRIX NEMATODE might as well be the State itself, for the VECTORs under
 
 And now...
 
-CORAL is talking. "I will draw her away from the STRIDERs. She'll expect an ambush, of course..."
+CORAL is talking. "I will draw her away from the striders. She'll expect an ambush, of course..."
 
 CERULEAN imagines trying to cut NEMATODE. To face her as an equal, BLADE to BLADE.
 
@@ -110,7 +110,7 @@ Industrials. They never shut up.
 
 He blinks, frowns. "No, no of course not. I shall see to it right away..."
 
-She turns away, glances over the STRIDER cavalry. A small group is shouting in the crowd. Some irrelevant protest, for a civilian Arbitrator to handle.
+She turns away, glances over the strider cavalry. A small group is shouting in the crowd. Some irrelevant protest, for a civilian Arbitrator to handle.
 
 The Industrial is still droning on. "Now, if the Central Administration has had the grace to grant us a FURNACE, I suppose that means we might see further investment, perhaps? Why, if we had a CRUCIBLE, we could accomplish quite amazing things, you know... we have so many true artisans, who are dying for the chance to show off their art. I know you're not the one who makes these decisions, but if you could put in a good word ---"
 

@@ -1,6 +1,6 @@
 ##*chapter* FIRST
 
-The VECTOR Engine purrs softly in her hand, the wisp-thin blade of the sword leaving a trail of distortion as it moves. Snowflakes part as they touch it.
+The VECTOR engine purrs softly in her hand, the wisp-thin blade of the sword leaving a trail of distortion as it moves. Snowflakes part as they touch it.
 
 Her quarry is near. Another VECTOR - almost close enough to taste. A little ball of heat somewhere in the collapsed houses, a whisper in the thick snow.
 
@@ -8,7 +8,7 @@ SEVEN AVIATRIX CERULEAN has been hunting the other VECTOR for almost a month. A 
 
 Don't think too much about that, maybe.
 
-A movement - there! She adjusts her stance, points the VECTOR Engine towards her foe, lets her eyes adjust.
+A movement - there! She adjusts her stance, points the VECTOR engine towards her foe, lets her eyes adjust.
 
 A VECTOR can't be killed - but she certainly can be defeated, captured... maybe even converted. Her quarry defected once, after all - maybe she'd think better of it. Maybe they would fight on the same unit, maybe after the battles they might wipe off the blood and she'd be held down and...
 
@@ -16,7 +16,7 @@ A memory of the Commander's voice cuts through this train of thought. "Conduct u
 
 Her orders are *clear*. Engage and, if possible, neutralise the defective VECTOR; otherwise, keep her busy while the giants secure the province. Nothing more.
 
-Her target does not seem to have noticed her. She flicks the Engine to LANCE, and there is no more time for thought. Her scarf, longer than regulation, snaps and ripples behind her, flaring to a brilliant red. In an instant, she's across the street - and behind her, a sharp line in the snow, a cloud of turbulence all around it...
+Her target does not seem to have noticed her. She flicks the engine to LANCE, and there is no more time for thought. Her scarf, longer than regulation, snaps and ripples behind her, flaring to a brilliant red. In an instant, she's across the street - and behind her, a sharp line in the snow, a cloud of turbulence all around it...
 
 Her target is catapulted across the snow, hot arterial blood spraying all over. She wipes the blood away from her eyes and assumes a defensive stance in a smooth movement. VECTORs don't die that easily. Then she licks her hand, because it just looks cool.
 
@@ -58,11 +58,11 @@ Civilians die sometimes - it's a war. A VECTOR wouldn't even have blinked at thi
 
 In any case, if this wasn't her target...
 
-She twists to block the incoming blow, the force of it launching her several metres into the air. The VECTOR Engine quickly seizes control of her motion, and she's gracefully floating, LANCE ready to respond.
+She twists to block the incoming blow, the force of it launching her several metres into the air. The VECTOR engine quickly seizes control of her motion, and she's gracefully floating, LANCE ready to respond.
 
 There!
 
-A darting shape, far too fast to be human. She closes and dives, the Engine screaming, switches back to BLADE, makes seven quick sword strokes in a fraction of a second.
+A darting shape, far too fast to be human. She closes and dives, the engine screaming, switches back to BLADE, makes seven quick sword strokes in a fraction of a second.
 
 Her opponent, now she can finally see her, is dressed in a distinctly non-regulation uniform. Which is to say, it's all about halfs. Half a mask, covering the left side of her face with a silvery mirror, and a dress hanging on only one shoulder, leaving half her body essentially bare apart from a small belt. Like most VECTORs, her hair is white - and in keeping with the rest of her look, half of it is very long, the other half shaved completely. Complex geometric traces of wires run up the bare half of her body.
 
@@ -70,7 +70,7 @@ She effortlessly parries the seven strokes, her own VECTOR sword thrumming. Her 
 
 "Delighted to see the State still cares about me."
 
-CERULEAN smiles back, fiercely. They're only metres apart now, and she knows what she ought to do: switch her Engine to OVERWHELM, and let the modern technology destroy her obsolete foe.
+CERULEAN smiles back, fiercely. They're only metres apart now, and she knows what she ought to do: switch her engine to OVERWHELM, and let the modern technology destroy her obsolete foe.
 
 But the Commander is not here. So she remains in BLADE form, and licks her lips, shifts her feet into a swordfighting stance.
 
@@ -80,9 +80,9 @@ Now her opponent is properly grinning. "I see they haven't trained all the fun o
 
 You make your way down to the stables, carefully edging past the place where a giant has done its business. A seven-legged screecher does exactly what its name implies as you duck through the service entrance, and wind your way between foul-smellng stalls. You're late - a bit too much crying this morning.
 
-Your boss is, luckily, distracted. She's in conversation with a tall KNIGHT, whose improbably long, digitigrade legs force her to stoop under the ceiling. The manager is staring up at her, shouting something about how much mess the giants have been making, that the State had better be willing to foot the cleanup costs. The KNIGHT looks rather more interested in making sure none of the burrowing insects on the rafter get into her hair.
+Your boss is, luckily, distracted. She's in conversation with a tall Knight, whose improbably long, digitigrade legs force her to stoop under the ceiling. The manager is staring up at her, shouting something about how much mess the giants have been making, that the State had better be willing to foot the cleanup costs. The Knight looks rather more interested in making sure none of the burrowing insects on the rafter get into her hair.
 
-They don't make KNIGHTs anymore. Giants may look impressive, but they're almost useless against VECTORs. And without a giant to command, a KNIGHT is just a woman who's too tall to fit into any sort of practical cover. That's the word on the message boards, anyway.
+They don't make Knights anymore. Giants may look impressive, but they're almost useless against VECTORs. And without a giant to command, a Knight is just a woman who's too tall to fit into any sort of practical cover. That's the word on the message boards, anyway.
 
 "Ah, Jermaine..." your boss smiles almost warmly, clearly preparing to butter you up for some absolutely awful cleanup duty. "There's a good boy." If she notices you flinch at the word 'boy', she doesn't let on. As you feared, the long-nosed sappers have started shedding, and the drains are clogged with hair and shit. And as the least senior stable-'boy', you know there's no point protesting.
 
@@ -112,7 +112,7 @@ Perhaps it's that, if you can't be a VECTOR, if you can't even pretend to be one
 
 It's a real good dance, CERULEAN reckons.
 
-She's sweating, hyper-aware of each motion her opponent makes. Parry, feint, step back, hop up into the air to float with her VECTOR Engine and smile as a BLADE passes harmlessly under her feet. She's taken a few cuts - nothing particularly serious, already healed. So has her opponent - one cut snapped her belt, turning her half-dress into something more like a cape.
+She's sweating, hyper-aware of each motion her opponent makes. Parry, feint, step back, hop up into the air to float with her VECTOR engine and smile as a BLADE passes harmlessly under her feet. She's taken a few cuts - nothing particularly serious, already healed. So has her opponent - one cut snapped her belt, turning her half-dress into something more like a cape.
 
 CERULEAN *really* wants them to fuck. But not yet.
 
