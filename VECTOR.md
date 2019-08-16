@@ -78,7 +78,9 @@ Now her opponent is properly grinning. "I see they haven't trained all the fun o
 
 ---
 
-You make your way down to the stables, carefully edging past the place where a giant has done its business. A seven-legged screecher does exactly what its name implies as you duck through the service entrance, and wind your way between foul-smellng stalls. You're late - a bit too much crying this morning.
+You make your way down to the stables, squeezing between a buzzing crowd of Industrials and the cold stone face of a pillar girl poking out of the wall. As you duck through the service entrance, and wind your way between foul-smellng stalls, you're greeted by a seven-legged screecher (doing exactly what its name implies).
+
+You're late - a bit too much crying this morning.
 
 Your boss is, luckily, distracted. She's in conversation with a tall Knight, whose improbably long, digitigrade legs force her to stoop under the ceiling. The manager is staring up at her, shouting something about how much mess the giants have been making, that the State had better be willing to foot the cleanup costs. The Knight looks rather more interested in making sure none of the burrowing insects on the rafter get into her hair.
 
