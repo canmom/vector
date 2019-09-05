@@ -36,7 +36,7 @@ NEMATODE is not bothering to run.
 
 She skims over the ground, her feet leaving a hot, knife-thin trail on the ground a few centimetres below. Around her head and shoulders, a constellation of BLADEs floats, swivelling to follow her gaze. She can feel the drain into her VECTOR engine, her wrist throbbing with pain where the needle enters, but she's beyond caring.
 
-What CORAL and CERULEAN have done is nothing short of blasphemy. Not to mention an unfathomable act of cruelty. Their pathetic defiance is embarassing but unsurprising. But to drag in the pillar girls, to refuse them the fulfilment of sacred duty that justifies their short lives?
+What CORAL and CERULEAN have done is nothing short of blasphemy. Not to mention an unfathomable act of cruelty. Their pathetic defiance is embarassing but unsurprising. But to drag in the pillar girls, to refuse them fulfilment of the sacred duty that justifies their short lives?
 
 It's unconscionable.
 
@@ -52,7 +52,7 @@ She can feel the radiation, a light sizzle on her skin. Taste it, too - rather m
 
 They wouldn't tell them how the process worked. But she can easily guess, now: a carefully excised piece of some other VECTOR, implanted at a strategic location.
 
-But she's never felt the radiation this strong. It feels like burning, the taste becoming all the more overwhelming as she closes the last few metres. Somewhere inside that ball of smoke... the VECTOR she loves, and the VECTOR she despises even more.
+Still, she's never felt the radiation this strong. It feels like burning, the taste becoming all the more overwhelming as she closes the last few metres. Somewhere inside that ball of smoke... the VECTOR she loves, and the VECTOR she despises even more.
 
 She plunges into the smoke.
 
@@ -102,25 +102,27 @@ NEMATODE grabs CERULEAN roughly and holds her in place, reducing her BLADE to so
 
 She activates the engine's OVERWHELM setting.
 
-Against a VECTOR as skilled as NEMATODE, a VECTOR with the find control needed to animate multiple BLADEs without even touching them, the programmatic attacks of OVERWHELM would be useless - a futile, predictable waste of energy. Would be uesless, if this BLADE wasn't embedded inside her. NEMATODE's eyes go wide as the program sets about bisecting her from within.
+Against a VECTOR as skilled as NEMATODE, a VECTOR with the fine control needed to animate multiple BLADEs without even touching them, the preprogrammed attacks of OVERWHELM would be useless - a futile, predictable waste of energy. Would be uesless, if this BLADE wasn't embedded inside her. NEMATODE's eyes go wide as the program sets about bisecting her from within.
 
 CERULEAN doesn't emerge unscathed. She clutches her hand to the ragged wound on her chest, but she has no time to wait for her body to repair. For now, at least, she's less injured than NEMATODE.
 
 She disables the VECTOR engine and runs a few steps to grab CORAL's head. CORAL looks back at her - still conscious. But as CERULEAN lifts her head out of the blood and filth, she finds there's something else... of course, her body would be trying to regenerate. But bathed in radiation like this...
 
-A thick rope of her own flesh connects CORAL's head to the floor, here and there forming a tiny arm, an eye socket, a line of noses. CERULEAN severs it with a quick stroke of her BLADE, tucks CORAL's severed head under her arm.
+A thick rope of CORAL's own flesh connects her head to the floor, here and there forming a tiny arm, an eye socket, a line of noses. CERULEAN severs it with a quick stroke of her BLADE, tucks CORAL's severed head under her arm.
 
 Behind her, NEMATODE's body lurches.
 
 CERULEAN just needs to find CORAL's VECTOR engine, and she can escape. It would be absurd to go to such lengths to acquire one engine, only to lose another! Usually, the radiation would give it away, but here...
 
-She finds the small pile of mush that used to be Rugose and casts about with her foot. It can't have fallen far...
+She finds the small pile of mush that used to be Rugosa and casts about with her foot. It can't have fallen far...
 
 ---
 
 NEMATODE is recovering as she has so many times before... but this time, something is different. Her body is not right. Her body is not hers...
 
-She looks down to see her torso knitting itself together, but it's too long, distended. Of course, she knows why. She's used radiation enough times to torture those particularly incorrigible rebel VECTORs. With some work, they can be turned into something useful again - maybe a strider, or at least some mindless, incoherent beast to send out into minefields. And whatever the result, they will *feel* the price of their treachery.
+She looks down to see her torso knitting itself together, but it's too long, distended.
+
+Of course, she knows why. She's used radiation enough times to torture those particularly incorrigible rebel VECTORs. With some work, they can be turned into something useful again - maybe a strider, or at least some mindless, incoherent beast to send out into minefields. And whatever the result, they will *feel* the price of their treachery.
 
 She staggers to her feet, but her newly flexible torso bends unexpectedly, dropping her face back into the muck. Another try... her feet give way, and for an undignified minute she's scrabbling, unable to gain purchase on the oil.
 
@@ -132,11 +134,13 @@ Somehow, CERULEAN has not made good her escape. Well, if nothing else, if NEMATO
 
 A LANCE plunges towards CERULEAN, seemingly out of nowhere. She leaps backwards, and her foot lodges on something hard... the third engine, the one she needs. She looks up to face her opponent... and takes another step back, aghast.
 
-NEMATODE is far taller, her body distended in a way that just looks *wrong*. She wobbles unsteadily... CERULEAN sees the swords supporting her. How is she still conscious?
+NEMATODE is far taller, her body distended in a way that calls to mind a cat being dangled by its armpits. She wobbles unsteadily... CERULEAN sees the swords supporting her. How is she still conscious?
 
 A shudder runs through NEMATODE's body. No time to find out. Hands full of VECTOR engines and her partner's head, CERULEAN makes ready to retreat into the smoke before NEMATODE can send any more sharp objects in her direction.
 
 ---
+
+*NO.*
 
 They can't escape.
 
@@ -162,9 +166,15 @@ NEMATODE pounces, closing the distance at LANCE speed. CERULEAN is sent flying, 
 
 And then, she's gone.
 
-CERULEAN slumps in the grass, mouth hanging slack. Of all the ways NEMATODE could return...
+CERULEAN slumps in the grass, mouth hanging slack. The entire attack passed in the space of a minute. She can still taste the thrill of victory she'd felt, the pride in finally besting her old instructor.
 
-She starts to sob.
+It's not... fair.
+
+VECTOR duels were supposed to be an evolved form of conflict. Nobody has to die, after all. The VECTOR engines, their beautiful, immortal bodies... a true contest of equals. And as such, the destructive power at her disposal, the horrors of war around her, all took on a form of gleeful pleasure.
+
+Disgusting. *Disgusting.*
+
+CORAL is out of her reach. CERULEAN stares at the fading trail of radiation, tears streaking the dirt and oil caking her face. CORAL is out of her reach... and it's her fault. It has to be.
 
 ---
 
@@ -176,11 +186,11 @@ What do you even say in a situation like this?
 
 ---
 
-You get her clean in an abandoned house a good twenty districts away from the site of the battle. There's a pillar girl's arm poking out of the stonework next to the door, and CERULEAN flinches. You support her up to the shower, help her wash the muck away. The shower is cold - no gas, of course. It's a miracle there's water, at least.
+You get her clean in an abandoned house, a good twenty districts away from the site of the battle. There's a pillar girl's arm poking out of the stonework next to the door, and CERULEAN flinches. You support her up to the shower, help her wash the muck away. The shower is cold - no gas, of course. It's a miracle there's water, at least.
 
 CERULEAN still hasn't said anything.
 
-You can't deny you've been thinking an awful lot about being naked with CERULEAN in a small intimate space, but the reality is rather less fun. It's left to you to find her some clothes - at least VECTORs are generally about the same size! - and get on with cutting up making a fire from some of the chairs to cook a three-eyed rodent you found crawling on the windowsill. VECTORs don't starve in quite the way ordinary people do, but you soon learned hunger is just as much of a problem.
+You can't deny you've been thinking an awful lot about being naked with CERULEAN in a small intimate space, but the reality is rather less fun. It's left to you to find her some clothes - at least VECTORs are generally about the same size! - and get on with cutting up making a fire from some chairs to cook a three-eyed rodent you found crawling on the windowsill. VECTORs don't starve in quite the way ordinary people do, but you soon learned hunger is just as much of an emotional problem.
 
 "I did everything right."
 
@@ -212,8 +222,8 @@ By the time NEMATODE returns to the FURNACE, the cleanup crew has arrived. Indus
 
 Unfortunate. NEMATODE is rather getting used to this.
 
-There's still enough in the air. More than enough. NEMATODE expels CORAL's head onto the floor, and sets her body about the process of changing. She feels her bones crunch, her spin compress... and after a little while, her body more or less resembles that of a normal VECTOR.
+There's still enough radiation in the air. More than enough. NEMATODE expels CORAL's head onto the floor, and sets her body about the process of changing. She feels her bones crunch, her spine compress and coallapse on itself... and after a little while, her body more or less resembles that of a normal VECTOR.
 
-Oh, it's so satisfying. To think, she had been denying herself this pleasure. To think, she'd been inflicting it as a torture...
+Oh, it's so satisfying. To think, she had been denying herself this pleasure. To think, she'd been inflicting it on others, as a *torture*...
 
 The State could do brilliant things with this. It could be just the edge they need... but the State needs her to follow the rules. To be better than the rebels. So NEMATODE hefts her enemy's head, and walking on just two legs, walks out to make her report...
