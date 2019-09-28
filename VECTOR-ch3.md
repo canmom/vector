@@ -116,7 +116,7 @@ She hangs from one of the bone pillars, trying to work out a safe course. How co
 
 The trail of radiation is unmistakeable, almost a straight line. Perhaps she was laying WIREs as she ran. A cruel, stupid act---one that would surely risk harm to civilians for decades to come, once the ambitions of these foolish malcontents had been put to rest.
 
-She'd always thought CERULEAN was suspect. For a long time, she'd tried to dismiss it as unbecoming jealousy---NEMATODE was faster, more acrobatic, flirted so easily with the other trainees. But, oh, she was actually a traitor!
+She'd always thought CERULEAN was suspect. For a long time, she'd tried to dismiss it as unbecoming jealousy---that CERULEAN was faster, more acrobatic, flirted so easily with the other trainees. But, oh, she was actually a traitor!
 
 How about that, eh?
 
@@ -148,7 +148,7 @@ Nobody is here, and nobody will ever know.
 
 CORAL plants a kiss on Rugosa's hard lips, wipes the oil away, and steps back.
 
-Two decades ago, she tried to kill herself by destroying this FURNACE. It was too late for Rugosa. There was nothing either of them could do, when the Arbitrators came. But they agreed one thing---even if Rugosa died, the State would not get its due. Before it could consume all of Rugosa's future, all of her dreams, CORAL would infiltrate the control room and push it into overload. Rugosa's defiance would build until it would no longer be contained.
+It had been too late for Rugosa. There was nothing either of them could do, when the Arbitrators came. But they agreed one thing---even if Rugosa died, the State would not get its due. Before it could consume all of Rugosa's future, all of her dreams, CORAL would infiltrate the control room and push it into overload. Rugosa's defiance would build until it would no longer be contained.
 
 A murder-suicide aimed at a city.
 
