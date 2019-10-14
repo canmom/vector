@@ -78,15 +78,15 @@ Now her opponent is properly grinning. "I see they haven't trained all the fun o
 
 ---
 
-You make your way down to the stables, squeezing between a buzzing crowd of Industrials and the cold stone face of a pillar girl poking out of the wall. As you duck through the service entrance, and wind your way between foul-smellng stalls, you're greeted by a seven-legged screecher (doing exactly what its name implies).
+You make your way down to the stables, squeezing between a buzzing crowd of Industrials and the cold stone face of a pillar girl poking out of the wall. Duck through the service entrance, wind your way between foul-smelling stalls, try to pay no mind to the long-nosed screecher (doing exactly what its name implies).
 
 You're late - a bit too much crying this morning.
 
-Your boss is, luckily, distracted. She's in conversation with a tall Knight, whose improbably long, digitigrade legs force her to stoop under the ceiling. The manager is staring up at her, shouting something about how much mess the giants have been making, that the State had better be willing to foot the cleanup costs. The Knight looks rather more interested in making sure none of the burrowing insects on the rafter get into her hair.
+Your boss is there, a full-fledged Industrial, her sleeves proudly rolled up to show her clade badge - and thankfully, she's distracted. Facing her is a tall Knight, whose improbably long, digitigrade legs force her to stoop under the ceiling. The manager is staring up at her, shouting something about how much mess the giants have been making, that the State had better be willing to foot the cleanup costs. The Knight looks rather more interested in making sure none of the burrowing insects on the rafter get into her hair.
 
-They don't make Knights anymore. Giants may look impressive, but they're almost useless against VECTORs. And without a giant to command, a Knight is just a woman who's too tall to fit into any sort of practical cover. That's the word on the message boards, anyway.
+They don't make Knights anymore. Giants may look impressive, but they're almost useless against VECTORs. And without a giant to command, a Knight is just a woman who's too tall to fit anywhere useful. That's the word on the message boards.
 
-"Ah, Jermaine..." your boss smiles almost warmly, clearly preparing to butter you up for some absolutely awful cleanup duty. "There's a good boy." If she notices you flinch at the word 'boy', she doesn't let on. As you feared, the long-nosed sappers have started shedding, and the drains are clogged with hair and shit. And as the least senior stable-'boy', you know there's no point protesting.
+"Ah, Jermaine..." your boss smiles almost warmly, clearly preparing to butter you up for some absolutely awful cleanup duty. "There's a good boy." If she notices you flinch at the word 'boy', she doesn't let on. As you feared, the sappers have started shedding, and the drains are clogged with hair and shit. And as the least senior stable-'boy', you know there's no point protesting.
 
 When nobody's looking, an urge catches you. What if you were to pretend your fork is a VECTOR engine... to twirl it like they spin their spears, to thrust it forwards and pretend the force of the engine is carrying you to dive down on your prey. You might not be free of the State, but you'd be free of sapper hair and giant shit. Elegant, bold - and untouchable.
 
