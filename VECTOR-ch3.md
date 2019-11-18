@@ -26,7 +26,7 @@ CERULEAN tries not to giggle as she peers into the IRIS. Ever since she told COR
 
 "JOUISSANCE! No way. You're making her up."
 
-"No, I swear!" CERULEAN smiles fondly. "Hell of a good kisser, actually."
+"No, I swear!" CERULEAN smiles fondly. "We'd cuddle up on the roof of the training barracks after curfew. They thought we were scavengers. One time they shot us with the anti-pest gun and we had to play dead for a good hour."
 
 "Oh, is that so?" CORAL lands, catlike, beside CERULEAN. In the IRIS's tinted gaze, NEMATODE's head twitches, registering the distant movement. The other State VECTOR glances to her, nods, readies a BLADE. 
 
