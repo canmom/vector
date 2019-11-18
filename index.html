@@ -11,17 +11,45 @@
 </head>
 
 <body>
-<article>
-<h1>VECTOR</h1>
-<p>A story about lesbians, swords, State power and unfaithful cyborgs.</p>
-<ul id="contents">
-  <li><a href="ch1.html"><em>chapter</em> FIRST</a></li>
-  <li><a href="ch2.html"><em>chapter</em> SECOND</a></li>
-  <li><a href="ch3.html"><em>chapter</em> THIRD</a></li>
-  <li><a href="ch4.html"><em>chapter</em> FOURTH</a></li>
-  <li><a href="ch5.html"><em>chapter</em> FIFTH</a></li>
-  <li><a href="ch6.html"><em>chapter</em> SIXTH</a></li>
-</ul>
-</article>
+  <article>
+    <h1>VECTOR</h1>
+    <p>A story about lesbians, swords, state power and unfaithful cyborgs. <a id="reveal" onclick="revealcontentnotes()">[show content notes]</a></p>
+    <h2><em>segment</em> ABDOMINAL</h2>
+    <ul class="contents">
+      <li><a href="ch1.html"><em>chapter</em> FIRST</a> <span class="contentnote">[cn: violence, dismemberment, sex, misgendering]</span></li>
+      <li><a href="ch2.html"><em>chapter</em> SECOND</a> <span class="contentnote">[cn: violence, sex]</span></li>
+      <li><a href="ch3.html"><em>chapter</em> THIRD</a> <span class="contentnote">[cn: violence, dismemberment, sex, abuse/exploitation]</span></li>
+      <li><a href="ch4.html"><em>chapter</em> FOURTH</a> <span class="contentnote">[cn: violence, dismemberment, sex, body horror]</span></li>
+    </ul>
+    <h2><em>segment</em> THORACIC</h2>
+    <ul class="contents">
+      <li><a href="ch5.html"><em>chapter</em> FIFTH</a> <span class="contentnote">[cn: violence, body horror]</span></li>
+      <li><a href="ch6.html"><em>chapter</em> SIXTH</a> <span class="contentnote">[cn: torture, violence, body horror]</span></li>
+      <li><b><em>chapter</em> SEVENTH</b></li>
+      <li><b><em>chapter</em> EIGTH</b></li>
+    </ul>
+    <h2><em>segment</em> CEPHALIC</h2>
+    <ul class="contents">
+      <li><b><em>chapter</em> NINTH</b></li>
+      <li><b><em>chapter</em> TENTH</b></li>
+      <li><b><em>chapter</em> ELEVENTH</b></li>
+      <li><b><em>chapter</em> TWELFTH</b></li>
+    </ul>
+  </article>
+  <script>
+    const revealButton = document.getElementById('reveal');
+    function revealcontentnotes() {
+      Array.from(document.getElementsByClassName('contentnote')).forEach((element) => {element.classList.add('revealed')});
+      
+      revealButton.innerHTML = "[hide content notes]";
+      revealButton.onclick = hidecontentnotes;
+    }
+
+    function hidecontentnotes() {
+      Array.from(document.getElementsByClassName('contentnote')).forEach((element) => {element.classList.remove('revealed')});
+      revealButton.innerHTML = "[show content notes]";
+      revealButton.onclick = revealcontentnotes;
+    }
+  </script>
 </body>
 </html>

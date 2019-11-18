@@ -24,15 +24,35 @@ h1 {
   font-size: 400%;
   text-align: center;
 }
-h2, ul#contents li {
+
+h2 {
   color: #69BEB5;
   font-size: 150%;
-  list-style: none;
-  margin-left: 0;
+}
+
+ul.contents li {
+  list-style: '::';
+
+}
+
+a {
+  text-decoration: none;
+  color: #F0BA59;
   font-weight: bold;
 }
 
-ul#contents li a {
-  text-decoration: none;
-  color: #69BEB5;
+a:hover {
+  color: #72E18E;
+}
+
+.contentnote {
+  font-size: 80%;
+  display: block;
+  padding-left: 2em;
+  font-size: 0;
+  transition: font-size 0.5s ease-in;
+}
+
+.contentnote.revealed {
+  font-size: inherit;
 }
