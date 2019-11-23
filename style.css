@@ -56,3 +56,15 @@ a:hover {
 .contentnote.revealed {
   font-size: inherit;
 }
+
+img {
+  width: calc(100% + 150px);
+  margin-left: -75px;
+}
+
+.frontpagetitle {
+  position: absolute;
+  margin-top: 25px;
+  margin-left: -25px;
+  color: #5A002A;
+}
