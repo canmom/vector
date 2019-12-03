@@ -12,7 +12,7 @@ article {
   padding-left: 75px;
   padding-right: 75px;
   padding-top: 10px;
-  padding-bottom: 10px;
+  padding-bottom: 30px;
 }
 hr {
   width: 50%;
@@ -55,4 +55,31 @@ a:hover {
 
 .contentnote.revealed {
   font-size: inherit;
+}
+
+nav {
+  display: grid;
+  grid-template-columns: 33% 34% 33%;
+  padding-top: 25px;
+  padding-bottom: 40px;
+}
+
+nav .prev {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  text-align: left;
+  margin-left: 11%;
+}
+
+nav .up {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  text-align: center;
+}
+
+nav .next {
+  grid-column-start: 3;
+  grid-column-end: 4;
+  text-align: right;
+  margin-right: 11%;
 }
