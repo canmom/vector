@@ -1,11 +1,10 @@
 #!/bin/bash
 prefix="VECTOR-ch"
 navigation=$(<navigation.html)
-preamble=$(<vector-preamble.html)
-footer=$(<vector-footer.html)
 chapterTitles=(null FIRST SECOND THIRD FOURTH FIFTH SIXTH SEVENTH EIGHT NINTH TENTH ELEVENTH TWELFTH)
+nChapters=6;
 
-for i in `seq 1 6`; do
+for i in `seq 1 $nChapters`; do
     prev=$((i-1));
     next=$((i+1));
     thisNavigation=$navigation
@@ -17,7 +16,7 @@ for i in `seq 1 6`; do
     else
         thisNavigation=$(sed 's#{{notfirst}}.*</a>##' <<< $thisNavigation);
     fi
-    if ((next<13))
+    if ((i!=nChapters))
     then
         thisNavigation=${thisNavigation/"{{next}}"/$next};
         thisNavigation=${thisNavigation/"{{nextname}}"/${chapterTitles[next]}};
