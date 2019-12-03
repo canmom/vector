@@ -84,9 +84,16 @@ nav .next {
   margin-right: 11%;
 }
 
-img {
+img#cover {
   width: calc(100% + 150px);
   margin-left: -75px;
+}
+
+img.logo {
+  display: block;
+  width: 45%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .frontpagetitle {
@@ -94,4 +101,5 @@ img {
   margin-top: 25px;
   margin-left: -25px;
   color: #5A002A;
+  z-index: -1;
 }
