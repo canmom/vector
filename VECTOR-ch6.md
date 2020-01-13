@@ -82,7 +82,7 @@ She knows what's coming, but she has to speak anyway. "My name is CERULEAN. I'm 
 
 CORAL starts to sob and heave. She can't bring herself to look away.
 
-"You are deluded. Your name is {deadname}. You are a failed trainee Industrial. You are not, and never have been, a member of the VECTOR Dragoons. This is a poor start, {deadname}!" The Investigator flicks a flake of ash off of the table.
+"You are deluded. Your name is Fagus. You are a failed trainee Industrial. You are not, and never have been, a member of the VECTOR Dragoons. This is a poor start, Fagus!" The Investigator flicks a flake of ash off of the table.
 
 Of course, they had known what she'd say. They wanted her to know the consequence for 'lying'. CORAL finds she has room for a little bit more hate after all. Her arm heals. CORAL can't stop staring.
 
@@ -128,7 +128,7 @@ The interrogation continues, on and off. They allow her time to stew - but never
 
 "Like I said---you know when I'm lying and have your hand on the torture button. I'm not stupid." Why do they keep asking? Why go around these circles? (Maybe she could throttle one of them. She still has arms.)
 
-"Then I have to wonder---why did you rebel? You could easily forsee this outcome." He taps his finger on the desk.
+"Then I have to wonder---why did you rebel? You could easily foresee this outcome." He taps his finger on the desk.
 
 She laughs, though it comes out as more of a painful cough. "VECTORs follow our dicks 'n clits, haven't you heard?"
 

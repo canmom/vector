@@ -58,7 +58,7 @@ CERULEAN swallows. She isn't entirely clear on this part either. And thinking ab
 
 CHIASMUS looks slightly relieved - presumably glad to hear there *is* a plan. "VELVET, you say. We, uh, got anything else to go on?"
 
-"Eastener like me. Quite short. Not much else, I'm afraid." Near the Eastern border of the State, skin tones tend to slightly lighter shades of brown than the interior. As well as other, subtler features, which matter very little to most people but an awful lot to passport authorities. CERULEAN doesn't remember much of her life before VECTORisation, but she does recall the constant jabs from her peers, awkward questions about a religion she never knew...
+"Easterner like me. Quite short. Not much else, I'm afraid." Near the Eastern border of the State, skin tones tend to slightly lighter shades of brown than the interior. As well as other, subtler features, which matter very little to most people but an awful lot to passport authorities. CERULEAN doesn't remember much of her life before VECTORisation, but she does recall the constant jabs from her peers, awkward questions about a religion she never knew...
 
 "So, what, we just sneak up on every short, Eastern Industrial on the train and quietly ask if they're up for a little sedition? Oh, this is just getting better."
 
@@ -68,7 +68,7 @@ Honestly, when did CHIASMUS get so sarcastic? CERULEAN shakes her head. "She wor
 
 Industrial FOUR VELVET sighs. "Direct point?" she says, gesturing to one of the other dozen Industrials in the packed cabin.
 
-The man opposite her launches into it. "Right. Look, we can't possibly afford the risk to our activists. They're sending VECTORs to the city - it'll be a massacre." A murmur of approval.
+The boy opposite her launches into it. "Right. Look, we can't possibly afford the risk to our activists. They're sending VECTORs to the city - it'll be a massacre." A murmur of approval.
 
 "All right. Next I think it was... Lotus?" She gestures towards a young unengineered citizen, who's been fidgeting with her locs with an agitated expression.
 
@@ -138,7 +138,7 @@ The origin of the voice turns out to be a short, round woman in a slightly grubb
 
 ("Civilians"? Have you really come to look down on them, in such little time? No, call them comrades, call them partisans...)
 
-The Industrial takes a deep breath, and you're suddenly very conscious of your inhuman height and fanficul, sexualised outfit. The kind of body you always wanted... but now, it feels like some kind of mean joke.
+The Industrial takes a deep breath, and you're suddenly very conscious of your inhuman height and fanciful, sexualised outfit. The kind of body you always wanted... but now, it feels like some kind of mean joke.
 
 Nobody is laughing, though. But the fear in their eyes isn't much better.
 
