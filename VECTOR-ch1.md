@@ -1,4 +1,4 @@
-##*chapter* FIRST
+## *chapter* FIRST
 
 The VECTOR engine purrs softly in her hand, the wisp-thin blade of the sword leaving a trail of distortion as it moves. Snowflakes part as they touch it.
 
@@ -194,4 +194,4 @@ CERULEAN takes a moment to process that. "You mean you *deliberately* cut off my
 
 It's too much... but CERULEAN can't help but stare. When she was VECTORised, she was sedated - and the State guards the secret of creating VECTORs very closely. Is this how they did it - take part of some other girl, graft it on to her, let the 'healing' process do its work?
 
-CORAL smiles, wired teeth gleaming, and gently brushes the civilian's hair aside. "Isn't it beautiful?" 
+CORAL smiles, wired teeth gleaming, and gently brushes the civilian's hair aside. "Isn't it beautiful?"

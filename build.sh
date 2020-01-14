@@ -27,3 +27,6 @@ for i in `seq 1 $nChapters`; do
     echo "$(<vector-preamble.html)$(kramdown "$prefix$i.md")$thisNavigation$(<vector-footer.html)" > "ch$i.html";
     echo "Processed chapter $i";
 done
+
+pandoc epub-meta.txt VECTOR-ch*.md -o VECTORch1-6.epub --epub-chapter-level=2 --top-level-division=chapter
+echo "Generated epub"

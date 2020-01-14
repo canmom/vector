@@ -1,0 +1,7 @@
+---
+title: VECTOR
+author: Bryn Dickinson
+rights: © 2020 Bryn Dickinson, CC BY-NC-SA
+language: en-GB
+cover-image: epub-cover.png
+---
