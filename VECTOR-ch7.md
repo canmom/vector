@@ -296,7 +296,7 @@ She seems to have picked it up a lot faster than you.
 
 The burst of speed ends, and you are hurled forwards, flattened on the front of the vesicle. Shreds of torn cilia float about you, but of course, she can regrow them now just as quickly.
 
-With some evident reluctance, the pilot passes you back your VECTOR engine. "I can never thank you for this." she says. "Please, I'd love to talk---actually talk!---later, when this is over. But right now, I think you're needed..."
+With some evident reluctance, the pilot passes you back your VECTOR engine. "I can never thank you enough for this." she says. "Please, I'd love to talk---actually talk!---later, when this is over. But right now, I think you're needed..."
 
 CERULEAN reaches out a hand, and helps you towards the back of the vesicle. The pilot twists around to watch you go... and then, back into the darkness, the injector pod just where you left it.
 
