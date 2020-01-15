@@ -362,4 +362,6 @@ What name should she take, now she's a VECTOR?
 
 She knows her answer. She tries it out: "CROSSROADS."
 
-Yes, that sounds good.
+Yes.
+
+That sounds just about perfect.
