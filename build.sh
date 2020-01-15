@@ -28,5 +28,5 @@ for i in `seq 1 $nChapters`; do
     echo "Processed chapter $i";
 done
 
-pandoc epub-meta.txt VECTOR-ch*.md -o VECTORch1-6.epub --epub-chapter-level=2 --top-level-division=chapter
+pandoc epub-meta.txt VECTOR-ch*.md -o VECTORch1-$(nChapters).epub --epub-chapter-level=2 --top-level-division=chapter;
 echo "Generated epub"
