@@ -2,7 +2,7 @@
 prefix="VECTOR-ch"
 navigation=$(<navigation.html)
 chapterTitles=(null FIRST SECOND THIRD FOURTH FIFTH SIXTH SEVENTH EIGHT NINTH TENTH ELEVENTH TWELFTH)
-nChapters=6;
+nChapters=7;
 
 for i in `seq 1 $nChapters`; do
     prev=$((i-1));
@@ -28,5 +28,5 @@ for i in `seq 1 $nChapters`; do
     echo "Processed chapter $i";
 done
 
-pandoc epub-meta.txt VECTOR-ch*.md -o VECTORch1-$(nChapters).epub --epub-chapter-level=2 --top-level-division=chapter;
+pandoc epub-meta.txt VECTOR-ch*.md -o VECTORch1-$nChapters.epub --epub-chapter-level=2 --top-level-division=chapter;
 echo "Generated epub"
