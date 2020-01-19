@@ -30,3 +30,6 @@ done
 
 pandoc epub-meta.txt VECTOR-ch*.md -o VECTORch1-$nChapters.epub --epub-chapter-level=2 --top-level-division=chapter;
 echo "Generated epub"
+
+zip VECTORch1-$nChapters.zip ch*.html index.html style.css illustration-titled.png logo.svg
+echo "Zipped page for itch.io"
