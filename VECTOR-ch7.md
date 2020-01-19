@@ -278,25 +278,23 @@ A long, unpleasant silence. Time for orders.
 
 She doesn't wait for confirmation, but steps out into the corridor, hands locked to her frozen gun. It's been a lot of years since her time on the frontier. A lot of years nowhere near a firing range.
 
-So many doors. Segment 29 is almost at the far end of the train, and VELVET has not suddenly gained any fitness. She half expects to be incinerated by a bomb before she can get anywhere close - though rationally, the damage would largely be internal.
+So many doors. Segment 29 is almost at the far end of the train, and VELVET has not suddenly gained any fitness. She half expects to be incinerated by a bomb before she can get anywhere close. Rationally, of course, the damage would largely be inside the train's body.
 
 She enters the dining car, and one of the passengers tries to stop her with a question. "I'm sorry, this matter is extremely urgent, please let me through---"
 
-A sudden surge of acceleration knocks her, and everyone else who's standing, to the floor. Suddenly, there are no questions. A baby starts crying.
+"Is that blood?" someone asks. A baby is crying---must be someone well-connected, not to surrender it to a State creche for Engineering assessment.
 
-She can't stop.
+She can't stop. She pushes them aside. They can explain later, when the threat is over.
 
 The next compartment has a window. Outside, the train lights illuminate a rocky wall rushing by---far too fast. The train judders, making it hard to stand. What is the pilot *doing*?
 
 ---
 
-You're holding on to a strand of... something. Cartilage? The pilot is laughing, and laughing, and the train is rushing forwards, and in her hand is a VECTOR engine.
-
-She seems to have picked it up a lot faster than you.
+You're holding on to a strand of... something. Cartilage? The pilot is laughing, and laughing, and the train is rushing forwards.
 
 The burst of speed ends, and you are hurled forwards, flattened on the front of the vesicle. Shreds of torn cilia float about you, but of course, she can regrow them now just as quickly.
 
-With some evident reluctance, the pilot passes you back your VECTOR engine. "I can never thank you enough for this." she says. "Please, I'd love to talk---actually talk!---later, when this is over. But right now, I think you're needed..."
+"I can never thank you enough for this." she says. "Please, I'd love to talk---actually talk!---later, when this is over. But right now, I think you're needed..."
 
 CERULEAN reaches out a hand, and helps you towards the back of the vesicle. The pilot twists around to watch you go... and then, back into the darkness, the injector pod just where you left it.
 
