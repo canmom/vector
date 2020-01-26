@@ -2,7 +2,8 @@
 prefix="VECTOR-ch"
 navigation=$(<navigation.html)
 chapterTitles=(null FIRST SECOND THIRD FOURTH FIFTH SIXTH SEVENTH EIGHT NINTH TENTH ELEVENTH TWELFTH)
-nChapters=7;
+nChapters=$1;
+nLinked=$2;
 
 for i in `seq 1 $nChapters`; do
     prev=$((i-1));
@@ -16,7 +17,7 @@ for i in `seq 1 $nChapters`; do
     else
         thisNavigation=$(sed 's#{{notfirst}}.*</a>##' <<< $thisNavigation);
     fi
-    if ((i!=nChapters))
+    if ((i<nLinked))
     then
         thisNavigation=${thisNavigation/"{{next}}"/$next};
         thisNavigation=${thisNavigation/"{{nextname}}"/${chapterTitles[next]}};
