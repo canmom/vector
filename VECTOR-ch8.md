@@ -200,7 +200,7 @@ CORAL follows her new companion into another bug, indistinguishable from the oth
 
 Underneath, it's at least somewhat warmer than the scrubland above. She reaches out a hand to touch the wall, and finds herself squishing some sort of egg cluster. Further explorations find hard, uncovered earth, shored up by some chitinous substance---most likely fragments of carapace from one of the bugs above. She hurries on to catch up with her companion, who has started bounding along on all fours, trilling rather more enthusiastically than before.
 
-She senses the other VECTORs by their radiation first. Then, the tunnel fills with searing light. A spotlight torn from a State aircraft---who knows how they got it.
+She senses the other VECTORs by their radiation first. Only for a second. Searing light fills the tunnel, utterly overwhelming. A spotlight!---torn from a State aircraft?
 
 CORAL makes no effort to cover her eyes. She waits, patiently. Her companion has run ahead, into the void behind the spotlight. Even VECTOR vision struggles with such an extreme range of brightness.
 
