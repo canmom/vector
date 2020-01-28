@@ -210,7 +210,7 @@ A voice comes from behind the light. "You aren't here to fight?" It is strangely
 
 "That depends on you!" CORAL rests her VECTOR engine over her shoulder. No need to summon a BLADE or LANCE. If she's right, and these misbegotten VECTORs are the result of some dubious experiment, they should not be armed. But VECTORs aren't known for letting things like 'impossible odds' get in their way.
 
-After a little hesitation, the spotlight dims, rendering the scene mildly less chiaroscuro. Silhouettes start to be slightly more visible in the space behind. CORAL takes a step forward, and when no-one shoots her, another.
+After a little hesitation, the spotlight dims, rendering the scene mildly less chiaroscuro. Silhouettes become slightly more visible in the space behind. CORAL takes a step forward, and when no-one shoots her, another.
 
 "You'll have to forgive me. We're not used to talking." The doubled voice sounds again. CORAL steps out of the spotlight beam, and her eyes adjust.
 
@@ -220,7 +220,7 @@ The backwards-leg VECTOR from above ground is curled around another VECTOR. At f
 
 A third VECTOR drops down from the ramshackle frame of the spotlight. This one glistens oddly in the harsh light, as if her body is covered by a thick layer of slime. Her skin seems strangely translucent. She reaches out and touches CORAL's arms, leaving a trail of white ooze behind her.
 
-All three are emaciated, moving slugglishly. They must be surviving on nothing but their own will to live, fed through the VECTOR system to repair their damaged cells. A VECTOR can last indefinitely in this state, but she can't expect to enjoy it.
+All three are emaciated, moving hesitantly, with sudden twitches. They must be surviving on nothing but their own will to live, fed through the VECTOR system to repair their damaged cells. A VECTOR can last indefinitely in this state, but she can't expect to enjoy it.
 
 CORAL inclines her head respectfully. "I take it you're no friends of the State."
 
@@ -230,15 +230,17 @@ Slime-trail spits. "A slug, they made me. Industrial, I was. What think *you*?"
 
 CORAL raises an eyebrow. "Industrial? You weren't part of the VECTOR program?"
 
-Backwards-leg hisses. Doubled-voice strokes her gently. "She's moved on to VECTORs now?"
+Backwards-leg hisses. Doubled-voice strokes her gently. "So. She's moved on to VECTORs now."
 
 Hmm. "You mean NEMATODE?" They all flinch at that name. "We fought. She captured me. I escaped."
 
 They all glance at each other. Doubled-voice is the one to say it. "She let you go."
 
-No. No, that can't be right. Has she not been humiliated enough?
+No.
 
-"Nonsense." CORAL finds herself saying. "Why would she?"
+No, that can't be right. Has CORAL not been humiliated enough?
+
+"Nonsense." she finds herself saying. "Why would she?"
 
 Slime-trail shrugs. She lays a wet hand on CORAL's cheek. The slime is cool. She stares intensely at CORAL's face. "Eyes different colours."
 
@@ -266,11 +268,11 @@ Second girl sits in silence, slowly stroking first girl, who seems to be calming
 
 "If I answer your questions, will you help us?"
 
-CORAL puts on her best smile. "Sure. Whatever you need!"
+Finally. CORAL puts on her most dashing grin. "Sure. Whatever you need!"
 
 "All right... I don't know where we are. Some Southern nomad-land that's not properly colonised." An interesting choice of words! "I have no idea who built this village, or who slaughtered them. We've been here months, I think. I think the State is over the mountains... at least, that's where the planes go."
 
-If she's somewhere South, that would fit. CORAL has been able to discern, at least, that the mountains are to the North. Dimly, she remembers maps of the State's territory, the large areas with little population density towards the frozen South. An untamed, uncivilised land, she was told, but the war had put a stop to their expansion.
+If she's somewhere South, that would fit. CORAL has been able to discern, at least, that the mountains are to the North. Dimly, she remembers maps of the State's territory, the large areas with little population density towards the frozen South. An untamed, uncivilised land, she was told, but the war had put a stop to settlement efforts.
 
 "Nomads, you say." She knows almost nothing of the people who inhabit these lands. Technically, they're subjects of the State, but they don't seem to agree with that assessment. OPHANIM had talked about making links with them, but apparently nothing came of it. "Have you met them?"
 
@@ -304,7 +306,9 @@ Well, of course. If they had the secret of immortality, they would use it for th
 
 NEMATODE remains in her stance. She's fought VECTORs. It's not clear how the Director is taking control of her BLADEs, but she is surely not used to fighting. BLADEs are ephemeral. She can be cut apart, her reserves exhausted.
 
-"But we failed." The Director shakes her head ruefully, walking slowly towards NEMATODE. "It's hard to imagine a more catastrophic failure. Hubris, of course. But I disagree. Your experiment... it had potential."
+"But we failed." The Director shakes her head ruefully, walking slowly towards NEMATODE. "It's hard to imagine a more catastrophic failure. Hubris, it's said. We weren't ready."
+
+She strikes her cane on the ground, eyes boring into NEMATODE. Continues her advance. "But I disagree. Your experiment... it had potential."
 
 "And I enter this... how?" NEMATODE steps back, matching the Director step for step, sword still ready. They circle each other.
 
