@@ -1,7 +1,7 @@
 #!/bin/bash
 prefix="VECTOR-ch"
 navigation=$(<navigation.html)
-chapterTitles=(null FIRST SECOND THIRD FOURTH FIFTH SIXTH SEVENTH EIGHT NINTH TENTH ELEVENTH TWELFTH)
+chapterTitles=(null FIRST SECOND THIRD FOURTH FIFTH SIXTH SEVENTH EIGHTH NINTH TENTH ELEVENTH TWELFTH)
 nChapters=$1;
 nLinked=$2;
 

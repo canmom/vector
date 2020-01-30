@@ -276,7 +276,7 @@ A long, unpleasant silence. Time for orders.
 
 "NAUTILUS, I need our VECTORs, now. Get them out of the vesicle. VERBENA, open the doors. I'm going back there to buy us some time."
 
-She doesn't wait for confirmation, but steps out into the corridor, hands locked to her frozen gun. It's been a lot of years since her time on the frontier. A lot of years nowhere near a firing range.
+She doesn't wait for confirmation, but steps out into the corridor, hands locked to her stolen gun. It's been a lot of years since her time on the frontier. A lot of years nowhere near a firing range.
 
 So many doors. Segment 29 is almost at the far end of the train, and VELVET has not suddenly gained any fitness. She half expects to be incinerated by a bomb before she can get anywhere close. Rationally, of course, the damage would largely be inside the train's body.
 
