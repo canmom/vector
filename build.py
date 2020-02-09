@@ -4,6 +4,7 @@ from glob import glob
 import markdown
 from markdown.extensions.smarty import SmartyExtension
 from jinja2 import Environment, FileSystemLoader
+import subprocess
 
 parser = argparse.ArgumentParser(description = 'Build VECTOR chapters to html and epub.')
 parser.add_argument('nChapters',type=int,help="Number of chapters to generate.",default=None,nargs='?')
@@ -48,8 +49,8 @@ class Chapter:
         if title is not None:
             self.title = title
         if source_file is not None:
-            self.source_file = source_file
-            with open(source_prefix+source_file+source_suffix) as s:
+            self.source_file = source_prefix+source_file+source_suffix
+            with open(self.source_file) as s:
                 self.source = s.read()
             self.target = source_file+target_suffix
 
@@ -100,3 +101,8 @@ for index, chapter in enumerate(chapters):
             next=(chapters[index+1] if index != args.nLinked+1 else None),
             prev=(chapters[index-1] if index != 0 else None)
         ))
+
+subprocess.check_call(['pandoc', 'epub-meta.txt', *[chapter.source_file for chapter in chapters], '-o', 'VECTORch1-{}.epub'.format(args.nChapters), '--epub-chapter-level=2', '--top-level-division=chapter'])
+print('Generated ePub')
+subprocess.run(['zip', 'VECTORch1-{}.zip'.format(args.nChapters), *[chapter.target for chapter in chapters], 'index.html', 'style.css', 'epub-cover.png', 'logo.svg'])
+print('Zipped HTML')
