@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>VECTOR</title>
+  <link href="https://fonts.googleapis.com/css?family=El+Messiri:700|Molengo" rel="stylesheet">
+  <!--[if IE]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <link href="style.css" rel="stylesheet">
+</head>
+
+<body>
+<article>
+<h1><a href="index.html"><img alt="VECTOR" src="logo.svg" class="logo"></a></h1>
+{{ html }}
+<nav>
+    {% if prev %}<a class="prev" href="{{prev.target}}">⇦ {{prev.title}}</a>{% endif %}
+    <a class="up" href="index.html">⇪</a>
+    {% if next %}<a class="next" href="{{next.target}}">{{next.title}} ⇨</a>{% endif %}
+</nav>
+</article>
+</body>
+</html>
