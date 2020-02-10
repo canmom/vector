@@ -75,6 +75,7 @@ chapters = [
 def insertChapter(chapter, after):
     chapters.insert(chapters.index(Chapter(after))+1, chapter)
 
+epilogueOffset = 0
 if args.epilogues:
     if args.nChapters >= 4:
         insertChapter(
@@ -84,6 +85,9 @@ if args.epilogues:
                 source_file='s1e'),
             4)
 
+    if args.nLinked >= 4:
+        epilogueOffset += 1
+
     if args.nChapters >= 8:
         insertChapter(
             Chapter(
@@ -92,13 +96,16 @@ if args.epilogues:
                 source_file='s2e'),
             8)
 
+    if args.nLinked >= 4:
+        epilogueOffset += 1
+
 for index, chapter in enumerate(chapters):
     chapter.process_markdown()
     with open(chapter.target, 'w') as output:
         print('Building {}'.format(chapter.title))
         output.write(jinja.render(
             html=chapter.html,
-            next=(chapters[index+1] if index != args.nLinked+1 else None),
+            next=(chapters[index+1] if index != args.nLinked -1 + epilogueOffset else None),
             prev=(chapters[index-1] if index != 0 else None)
         ))
 
