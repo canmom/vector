@@ -16,19 +16,19 @@ Soon.
 
 "Just keep her airway clear!" Not that it makes much difference at this point.
 
-The arbitrators do not use metal bullets, but something engineered, some nasty, bony little creation of a State weapons lab. It unfolded inside Viv's body, producing an exit wound large enough for CERULEAN's fist. The cabin is soaked in blood, but a lot of that is from the dead arbitrator's arterial spray. Judging by this wound... surely as much is likely Viv's.
+The arbitrators do not use metal bullets, but something engineered, some nasty, bony little creation of a State weapons lab. It unfolded rapidly inside Viv's body, producing an exit wound more than large enough for CERULEAN's fist. The cabin is soaked in blood from the dead arbitrator's arterial spray. Judging by this wound... surely as much comes from Viv.
 
 CERULEAN has applied pressure, attempted to staunch the bleeding with part of CERULEAN's clothes, but an abdominal wound of this size is fatal. Viv is already in shock. CERULEAN is drawing a blank. As thorough as NEMATODE was with her little demonstrations, her training was much more concerned with inflicting injuries than curing them.
 
 "Can't we... you know. Do what I did! Make her a VECTOR?" There is a note of panic in CHIASMUS's voice.
 
-"If she was conscious, maybe." More likely the attempt would kill her.
+"If she was conscious, maybe." More likely the attempt would kill her. Especially with the remnants of the bullet doing *who knows what* inside her body.
 
 "Isn't it worth trying?"
 
 Someone coughs. It's all CERULEAN can do to not let go of the injury and spin round, BLADE ready. But no. It must be the arbitrator who surrendered.
 
-"Hey!" CHIASMUS has a better view of the doorway. "You much good at first aid?" she shouts.
+"Hey!" CHIASMUS has a better view of the doorway. "You much good at first aid?"
 
 The arbitrator's voice is faltering. "I have clotting drugs. It can buy time. In the caboose, there's..."
 
@@ -104,6 +104,6 @@ CERULEAN lets out the breath she didn't realise she was holding.
 
 CHIASMUS smiles slightly, and reaches for her. She leans into the kiss, and they wait there for just a minute.
 
----
+They step back into the room.
 
-VELVET opens her eyes. The hum of the train is familiar. Her back is stiff.
+The engineer flexes her long, long fingers.
