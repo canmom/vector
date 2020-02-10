@@ -105,6 +105,7 @@ for index, chapter in enumerate(chapters):
         print('Building {}'.format(chapter.title))
         output.write(jinja.render(
             html=chapter.html,
+            title=chapter.title,
             next=(chapters[index+1] if index != args.nLinked -1 + epilogueOffset else None),
             prev=(chapters[index-1] if index != 0 else None)
         ))
