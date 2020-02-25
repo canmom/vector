@@ -34,7 +34,7 @@ The arbitrator's voice is faltering. "I have clotting drugs. It can buy time. In
 
 "Just get over here!"
 
-CERULEAN shifts to allow the man's bulky carapace past her shoulders. He does something with his glove, and part of the shell pops open, revealing a rack of vials. Rapidly, he tears one out and breaks it in his hands, pouring the contents directly onto the wound. Flecks of spray are lifted by the blood spurting between CERULEAN's fingers.
+CERULEAN shifts to allow the man's bulky carapace past her shoulders. He does something with his glove, and part of the shell pops open, revealing a rack of vials. Rapidly, he tears one out and breaks it in his hands, pouring the contents directly onto the wound.
 
 CERULEAN's hand tingles slightly. An excruciating minute passes, all parties holding their breath. Then, she feels a stiff shell forming around her fingers.
 
@@ -76,7 +76,7 @@ You stare at the engineer's tattoo, trying to discern the meaning of the symbols
 
 "Conditionally!?" CERULEAN says, beside you. She places a hand on her VECTOR engine.
 
-"You require my cooperation, do you not?" The engineer grimaces. "What I ask is very simple. A sample of flesh from each VECTOR, for the purposes of my research. And a promise that I will be allowed to leave the train alive once your comrade is stable."
+"You require my cooperation, do you not?" The engineer smiles, without reaching her eyes. "What I ask is very simple. A sample of flesh from each VECTOR, for the purposes of my research. And a promise that I will be allowed to leave the train alive once your comrade is stable."
 
 What.
 
