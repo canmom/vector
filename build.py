@@ -9,7 +9,7 @@ import subprocess
 parser = argparse.ArgumentParser(description = 'Build VECTOR chapters to html and epub.')
 parser.add_argument('nChapters',type=int,help="Number of chapters to generate.",default=None,nargs='?')
 parser.add_argument('nLinked',type=int,help="Number of chapters to link with navigation.",default=None,nargs='?')
-parser.add_argument('--noEpilogues',dest='epilogues',action='store_const',const=False,default=True,help="Do not include epilogues in chapter sequence.")
+parser.add_argument('--noEpilogues',dest='epilogues',action='store_const',const=False,default=True,help="Do not add epilogues to chapter sequence.")
 
 args = parser.parse_args()
 
@@ -25,9 +25,6 @@ if args.nChapters is None:
 if args.nLinked is None or args.nLinked > args.nChapters:
     # default to linking all chapters
     args.nLinked = args.nChapters
-
-with open('navigation.html') as f:
-    navigation = f.read()
 
 md = markdown.Markdown(extensions=[SmartyExtension(substitutions={
     'left-single-quote': '‘',
@@ -81,7 +78,7 @@ if args.epilogues:
         insertChapter(
             Chapter(
                 4.1,
-                title='segment ABDOMINAL::EPILOGUE',
+                title='segment ABDOMINAL:: EPILOGUE',
                 source_file='s1e'),
             4)
 
@@ -92,7 +89,7 @@ if args.epilogues:
         insertChapter(
             Chapter(
                 8.1,
-                title='segment THORACIC::EPILOGUE',
+                title='segment THORACIC:: EPILOGUE',
                 source_file='s2e'),
             8)
 
