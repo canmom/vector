@@ -93,7 +93,7 @@ if args.epilogues:
                 source_file='s2e'),
             8)
 
-    if args.nLinked >= 4:
+    if args.nLinked >= 8:
         epilogueOffset += 1
 
 for index, chapter in enumerate(chapters):
@@ -103,7 +103,7 @@ for index, chapter in enumerate(chapters):
         output.write(jinja.render(
             html=chapter.html,
             title=chapter.title,
-            next=(chapters[index+1] if index != args.nLinked -1 + epilogueOffset else None),
+            next=(chapters[index+1] if index < args.nLinked -1 + epilogueOffset else None),
             prev=(chapters[index-1] if index != 0 else None)
         ))
 
