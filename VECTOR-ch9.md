@@ -52,7 +52,9 @@ Her cabin has a private sink and mirror---a luxury she never enjoyed in her time
 
 VECTORs, pillar girls... they all found ways to keep going.
 
-She stares at her face, squinting slightly. It's been looking increasingly odd, day by day... softening in some ways, features moving around... At first, she'd just attributed it to a change of diet. Train food had turned out to be mostly derived from a secretion of the bug itself, somehow emanating from the mysterious power source deep inside. What *was* that, anyway? It couldn't be a Furnace --- the weight and space requirements would be impossible, not to mention the expense. But to move that much muscle and metal must take *some* kind of power source... CORAL would surely be able to explain it, but CORAL is not here. Perhaps one of the Industrials on the train... no doubt it's already come up in one of NAUTLIUS's long, rambling tours.
+She stares at her face, squinting slightly. It's been looking increasingly odd, day by day... softening in some ways, features moving around... At first, she'd just attributed it to a change of diet. Train food had turned out to be mostly derived from a secretion of the bug itself, somehow emanating from the mysterious power source deep inside.
+
+What *was* that, anyway? It couldn't be a Furnace --- the weight and space requirements would be impossible, not to mention the expense. But to move that much muscle and metal must take *some* kind of power source... CORAL would surely be able to explain it, but CORAL is not here. Perhaps one of the Industrials on the train... no doubt it's already come up in one of NAUTLIUS's long, rambling tours.
 
 Too many questions, rattling around in her head like coins in a drum. But it helps to think about those, and not the much thornier question: what would she say to the other VECTORs they were travelling to see, and how in fuck is she going to rescue CORAL? It's all too much, and CORAL has been sleepwalking throug her days, eating only lightly, answering questions minutes after they're spoken. CHIASMUS has been holding her, helping where she can, but there's only so much she can do.
 
@@ -96,13 +98,15 @@ It doesn't take long for their interlocutor to arrive. A blue-grey strider, bede
 
 The rider stops at the edge of the square, and raises their hand in a wary greeting. They dismount, and carefully lead their strider down the short incline into the square, feet squelching in pooling, fetid water. CORAL can see the way they turn their body away, their hand hovering near their hip. A gun, then. She keeps her own hands clearly visible.
 
-The rider stops, a respectful distance away, and with one hand unfastens the cloth veil hanging over their face. Now they're closer, CORAL can see that the mask is painted with an intricate pattern of eyeballs in various colours. The strider is clearly a few generations removed from the attention of a State engineer, showing some distinctly non-regulation colouring about the nose.
+The rider stops, a respectful distance away, and with one hand unfastens the cloth veil hanging over their face. Now they're closer, CORAL can see that the mask is painted with an intricate pattern of eyeballs in various colours. Behind it, a broad nose, soft features, an intricate pattern of tattoos---more eye-like designs, on the cheeks and forehead.
 
 "You're a new face." The rider speaks in the State's language clearly, but with a distinctive accent, stumbling on certain consonants. They take a moment to size CORAL up. "Well, you don't look too quarrelsome. Please, call me Mote. I speak for, hmm, how to translate this... let's call us the Witnesses."
 
 CORAL nods, wondering what gestures are appropriate in a situation like this. Belatedly, she realises she should introduce herself back. "My name is CORAL. I speak for... myself? And possibly these three."
 
 Mote laughs, gently. "Then I am glad to meet you, CORAL of yourself-and-these-three. I take it you are another one of the errors of that place, in the ground?" CORAL grimaces. Mote raises their hands, placatingly. "I mean no offence. I am glad each time they err! It means their designs are thwarted one day longer."
+
+The strider snuffles, raises its short trunk to gently sniff at CORAL. Clearly a few generations removed from the attention of a State engineer---the colouring about the nose is distinctly non-regulation.
 
 "Right, well, then..." CORAL tries to smile. "I suppose I am an error, might as well get used to it! But before I came here, I was already fighting the State... I fought with OPHANIM, in the rebellion." This merits a raised eyebrow. "You know of her?"
 
@@ -130,13 +134,13 @@ She can feel the gaze of a VECTOR boring into her neck. CERULEAN... the State-tr
 
 She steps out the door, and sets off towards her makeshift workshop as if nothing is amiss. The door opens and shuts behind her. She stops.
 
-"I would put that down if I were you." she says, calmer than she's feeling. A slight shift in the aiR. Her guess was right. "If I die, your *dear* comrade dies with me. Was this all for nothing?"
+"I would put that down if I were you." she says, calmer than she's feeling. A slight shift in the air. Her guess was right. "If I die, your *dear* comrade dies with me. Was this all for nothing?"
 
-A shout of anger. She waits for the BLADE to land. It would be so easy to miscalculate: they could call her bluff... the logistics of transmitting a signal through the train would be beyond her, but neither of these girls seems particularly informed about the practicalities of Engineering.
+A hiss of anger. She waits for the BLADE to land. It would be so easy to miscalculate: they could call her bluff... the logistics of transmitting a signal through the train would be beyond her, but neither of these girls seems particularly informed about the practicalities of Engineering.
 
 CERULEAN appears in front of her. She's gripping her VECTOR engine, knuckles white, the faintest trace of potential suggesting a BLADE barely held in check. It's enough.
 
-"My terms are the same." she says. "Two more samples of flesh, and I safely leave the train."
+"My terms are the same." Theosebeia says. "Two more samples of flesh, and I safely leave the train."
 
 "More?" The voice is behind her. CHIASMUS.
 
@@ -146,7 +150,11 @@ She steps forward towards her workshop. Abruptly, CERULEAN's blade is in front o
 
 "CERULEAN! Please, for fuck's sake!" CHIASMUS again. Theosebeia lets the drama play out. "Hell, For CORAL's sake."
 
-"Don't!" CERULEAN's voice is acid. "She wouldn't accept this. But... we don't need to kill her."
+"Don't!" CERULEAN's voice is acid. "She wouldn't accept this."
+
+"For Viv's sake then. And CROSSROADS We have a home here... We don't have to kill her."
+
+"Oh..." CERULEAN suddenly grins, too wide. "We *don't* have to kill her!"
 
 "I can---" Theosebeia doesn't get to add another lie. Searing pain ricochets across her body. Mutely, she watches herself fall to the ground, cut tendons and oozing blood. CORAL flicks her sword, disappears it...
 
@@ -158,11 +166,15 @@ You open your eyes.
 
 And then, because it's dripping, you wipe away some of the blood coating your face. Where Theosebeia was standing... well, she's there, but collapsed, a broken puppet. Three slick cuts, before you could blink.
 
-"Get her to that life support machine." CERULEAN says. "Quickly! If you want to keep Viv alive."
+"Get her to that life support machine." CERULEAN says, still smiling with that dreadful, enticing satisfaction. *Not* the time... "Quickly! If you want to keep Viv alive."
 
 You get to it, helping CERULEAN heft the engineer's limp body. "Ce, I get it, I do but... we could have fucking discussed this!"
 
-CERULEAN, thankfully, seems to have calmed down a little. "I'm sorry, I just... I can't let her have what she wants. I'm done making that bargain."
+CERULEAN, thankfully, calms a little. "You're right, that was... fuck. Fuck. I'm sorry, CHIASMUS. That was fucking reckless."
+
+You manage to nod. One of you has to keep her emotions under control, and *apparently* it's you.
+
+CERULEAN glances back at the broken Engineer in her hands, contempt and anger flickering over her face. "I can't let her have what she wants. I'm done making that bargain."
 
 You open your mouth, shut it. "We are where we are." Which is to say, severe blood loss, possible head injury... better hope she was bluffing.
 
@@ -174,7 +186,7 @@ Lotus grabs your wrist, tightly. CERULEAN as well. You could easily pull away, b
 
 "What happened out there!?" she says. "I can't deal with this---first you come and tell me she's our ally, then you cut her down the minute her work is done? What's going on? It's not just you who's fighting this war!"
 
-CERULEAN opens her mouth, and shuts it again. You speak. "We made... a bargain. One we never really intended to keep. She... threatened Viv. Told us..." you swallow. "Told us, if she dies, Viv goes with her."
+CERULEAN grimaces, says nothing. You speak. "We made... a bargain. One we never really intended to keep. She... threatened Viv. Told us..." you swallow. "Told us, if she dies, Viv goes with her."
 
 "So you did this to her!?" Lotus stares you in the eye. You try to hold her gaze. But you're ashamed, once again. CERULEAN is still saying nothing, but you can feel the anger radiating from her.
 
@@ -184,7 +196,7 @@ You have to explain yourself. Lotus is much younger than you, but you have the u
 
 Lotus takes a deep breath, lets it out.
 
-"OK." she says. "OK, I think I see how... how we got here." She shaeks her head. "But, honestly... there's a lot that I think you'll have to explain, before we get where we're going. I think... I'm well past done with *secrets*."
+"OK." she says. "OK, I think I see how... how we got here." She shakes her head. "But, honestly... there's a lot that I think you'll have to explain, before we get where we're going. I think... I'm well past done with *secrets*."
 
 ---
 
@@ -197,3 +209,19 @@ OPHANIM opens her eyes.
 OPHANIM has a lot of eyes. A lot of faces.
 
 The train is here, at last.
+
+---
+
+NEMATODE closes her eyes.
+
+The Director is, mercifully, not here. For now. NEMATODE thinks she's found the mole, but how can she be sure there's not another? But she has to act, and act now.
+
+Through her other, more distant eyes, NEMATODE sees her plans unfolding. CORAL is meeting some nomad... and somehow, she seems to have found a few of the castoffs. Perhaps she could be given a little help along the way... Good, loyal POLYTOPE is in the lab, preparing the device, proud to have been trusted.
+
+The VECTORs, at least, have been relatively easy to sway to NEMATODE's side. The Investigators, on the other hand, are all suspect. The various Industrials and other servitors, well... they'll come around, when it comes to it.
+
+What NEMATODE is considering is treason, of course. But it's not like the obtuse recalcitrance of the rebels. The State's leadership is unfit for purpose. The robust, elegant machine which survived the harsh century has become corrupted, clattering about madly, unable to see what has to be done. It's past time someone *competent* took control.
+
+But she's been embarassed once. It won't happen again.
+
+NEMATODE opens her eyes. There's work to be done.
