@@ -1,4 +1,4 @@
-## *chapter* THIRD
+## <i>chapter</i> THIRD
 
 A solid spot for an ambush. No, it wouldn't be NEMATODE's first choice, but they were probably counting on that.
 
@@ -86,23 +86,23 @@ Was this where she lived, once? Before the war contracted the inhabited spaces t
 
 The State grew without hesitation, reproducing itself in every corner it could find. Everywhere would come to know Sovereignty: blessed relief from the sorry task of deciding who can live and who must die.
 
-But life or death wasn't really the question, for most. Rather, the State gave its subjects *purpose*. A part in the Great Work, the ability to bless the lives of countless generations hence. And in the meantime, all the pleasures of life. The factories and then the FURNACE promised give prosperity to everyone---as long as they *play their part*.
+But life or death wasn't really the question, for most. Rather, the State gave its subjects *purpose*. A part in the Great Work, the ability to bless the lives of countless generations hence. And in the meantime, all the pleasures of life. The factories and then the furnace promised give prosperity to everyone---as long as they *play their part*.
 
 Of course CORAL had been proud!
 
-Ahead, the cracked shell of the FURNACE looms over a thick coil of scavenger egg sacs, the air thick with effluvia. CORAL darts through, feet splatting off the sodden ground. She springs up, scrambles over the FURNACE wall.
+Ahead, the cracked shell of the furnace looms over a thick coil of scavenger egg sacs, the air thick with effluvia. CORAL darts through, feet splatting off the sodden ground. She springs up, scrambles over the furnace wall.
 
 It's quiet.
 
-CORAL remembers. Her mother, taking her hand, holding it to the oily surface of the FURNACE. "It's safe, see?"
+CORAL remembers. Her mother, taking her hand, holding it to the oily surface of the furnace. "It's safe, see?"
 
 CORAL's mother had been so proud to be chosen to work on the new project---the culmination of all her struggles in the Academe.
 
-Later, CORAL had shown the FURNACE to her girlfriend, Rugosa. Still meeting in secret---back when they both thought they were boys. CORAL's fingers twitch as she remembers holding Ru's hand and pointing out the interesting features of the machine.
+Later, CORAL had shown the furnace to her girlfriend, Rugosa. Still meeting in secret---back when they both thought they were boys. CORAL's fingers twitch as she remembers holding Ru's hand and pointing out the interesting features of the machine.
 
 Ru had nestled her head on CORAL's shoulder. "So where does the oil come from?" An innocent question, a reasonable one. And one CORAL had never thought to ask.
 
-Now, decades after, CORAL bounds over the threshold of the broken FURNACE. She has no time to admire her handiwork.
+Now, decades after, CORAL bounds over the threshold of the broken furnace. She has no time to admire her handiwork.
 
 Some of the rebels would claim innocence---that the *wrongness* of this world was always obvious, so they themselves were above it all, never complicit. CORAL has no such illusions. But at least, she sometimes tells herself, when she finally realised the need to fight...
 
@@ -124,19 +124,19 @@ POLYTOPE is looking forward to cutting that aloof smile off CERULEAN's face. So 
 
 ---
 
-At the centre of the FURNACE stands a pillar of what seems, at first, to be congealed oil.
+At the centre of the furnace stands a pillar of what seems, at first, to be congealed oil.
 
 It takes her a moment to make out the hands, the face, the curves of the body disappearing under thick, oil-matted hoses.
 
 Rugosa.
 
-She had been suspended at the heart of the FURNACE. The hoses had attached themselves, lamprey-like, to her skin, everywhere they could find purchase. The same energy that drives VECTORs to leap into the sky could be drawn out forcibly, a lifetime's worth of will to struggle, harnessed in a matter of weeks.
+She had been suspended at the heart of the furnace. The hoses had attached themselves, lamprey-like, to her skin, everywhere they could find purchase. The same energy that drives VECTORs to leap into the sky could be drawn out forcibly, a lifetime's worth of will to struggle, harnessed in a matter of weeks.
 
 Of course, she was sedated. It would be *inhumane* to let her feel it.
 
-CORAL never found out why Rugosa was the one chosen. Or any of the others who went in before her. It wasn't exactly *unknown* how the FURNACE worked, in her time. The "participant"---that's what they called it---was attested to in technical documents. Criminals, terrorists. She'd even heard of people volunteering themselves, in return for a guarantee of a better life for their family. A crude measure, her mother had said when she was asked---but civic pride only goes so far, sadly.
+CORAL never found out why Rugosa was the one chosen. Or any of the others who went in before her. It wasn't exactly *unknown* how the furnace worked, in her time. The "participant"---that's what they called it---was attested to in technical documents. Criminals, terrorists. She'd even heard of people volunteering themselves, in return for a guarantee of a better life for their family. A crude measure, her mother had said when she was asked---but civic pride only goes so far, sadly.
 
-That was the way of it. There was no question---the State needed tools like the FURNACE and the pillar girls. A few shortened lives would give prosperity to everyone. And it's not like they *suffer*, right? They should be proud: to serve the social good even after death!
+That was the way of it. There was no question---the State needed tools like the furnace and the pillar girls. A few shortened lives would give prosperity to everyone. And it's not like they *suffer*, right? They should be proud: to serve the social good even after death!
 
 The moral calculus looked rather different when Rugosa was in her arms, sobbing uncontrollably. A torn letter discarded on the floor---its polite death sentence spelled out in elegant type. (She knew why. They'd been discovered. But why Rugosa---why not CORAL herself?)
 
@@ -154,7 +154,7 @@ A murder-suicide aimed at a city.
 
 It went as planned. CORAL won---but she didn't die. OPHANIM saw to that.
 
-Now, after sacrificing everything to stop the FURNACE burning, CORAL is here to light it again.
+Now, after sacrificing everything to stop the furnace burning, CORAL is here to light it again.
 
 ---
 
@@ -180,7 +180,7 @@ In front of her is the frozen face of a pillar girl. For a moment, CERULEAN thin
 
 She wasn't sure, when CORAL explained, that the plan had any hope of working. She has even more doubts now.
 
-And then she feels the sizzle of radiation. The light of the FURNACE igniting casts everything into brilliant chiaroscuro shards of colour and shadow. The sound is so overwhelming and low, even at this distance, that it knocks the breath out of her.
+And then she feels the sizzle of radiation. The light of the furnace igniting casts everything into brilliant chiaroscuro shards of colour and shadow. The sound is so overwhelming and low, even at this distance, that it knocks the breath out of her.
 
 And the bleached, weathered bone suddenly starts to soften, decades of dirt abruptly expelled as the road system begins the ponderous work of self-repair.
 
@@ -232,7 +232,7 @@ She wants to be a good pillar girl.
 
 ...that's not her?
 
-She wants to connect to her VECTOR engine before it's too late. Before the FURNACE gives out. How much time has already passed?
+She wants to connect to her VECTOR engine before it's too late. Before the furnace gives out. How much time has already passed?
 
 No... she wants to hold up the roads. She wants to hold back the water. She wants the power to flow and the houses to keep out the wind.
 
@@ -280,7 +280,7 @@ She has a choice.
 
 ---
 
-NEMATODE is halfway to the ruined FURNACE---of course, where else? What a perfect way to force her hand!---when she's reached by POLYTOPE's scream. Shock, rage, terror.
+NEMATODE is halfway to the ruined furnace---of course, where else? What a perfect way to force her hand!---when she's reached by POLYTOPE's scream. Shock, rage, terror.
 
 She doesn't stop.
 
@@ -292,7 +292,7 @@ The air fills with BLADEs.
 
 No VECTOR could drive this many BLADEs, with this much force. Parrying is impossible---dodging would lead her sliced apart on a WIRE. POLYTOPE finds herself falling, fragments of limb breaking apart, a comet of blood and meat.
 
-The searing light of the FURNACE begins to fade. The Blades splinter, falling back into shards of potential. The final BLADE launches itself in a graceful curve, snapping WIREs, plunging down the height of the pillar to where CERULEAN has collapsed, her arm still jammed into the pillar, steadily turning into white bone.
+The searing light of the furnace begins to fade. The Blades splinter, falling back into shards of potential. The final BLADE launches itself in a graceful curve, snapping WIREs, plunging down the height of the pillar to where CERULEAN has collapsed, her arm still jammed into the pillar, steadily turning into white bone.
 
 The BLADE slams through her arm, severing it. Her body slumps, safe from contamination.
 
@@ -304,8 +304,8 @@ Striders and cavalry scream, leaping to find purchase. Most are crushed, or slic
 
 NEMATODE stares, aghast, as the highway reduces itself to rubble. She's never heard of such an attack.
 
-CORAL will still be at the FURNACE. She can hardly have gone far, so heavily bathed in radiation. And when NEMATODE finds her...
+CORAL will still be at the furnace. She can hardly have gone far, so heavily bathed in radiation. And when NEMATODE finds her...
 
-She floats down, bounces off another building. The sun has almost completely set, and the cooling FURNACE stands out all the more. Somewhere in there, there will be an answer.
+She floats down, bounces off another building. The sun has almost completely set, and the cooling furnace stands out all the more. Somewhere in there, there will be an answer.
 
 One way, or another.

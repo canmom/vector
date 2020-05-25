@@ -1,4 +1,4 @@
-## *chapter* EIGHTH
+## <i>chapter</i> EIGHTH
 
 CORAL is walking.
 

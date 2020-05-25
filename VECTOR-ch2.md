@@ -1,4 +1,4 @@
-## *chapter* SECOND
+## <i>chapter</i> SECOND
 
 You had two mums. Two women who decided there would be a person, who would exist at this position, in this world. They taught you to speak and write and think. They tried to make you into a good citizen, decided that you should, specifically, be a good _boy_. That's what they wanted to make, but you had other ideas.
 

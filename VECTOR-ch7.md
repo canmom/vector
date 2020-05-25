@@ -1,4 +1,4 @@
-## *chapter* SEVENTH
+## <i>chapter</i> SEVENTH
 
 The door clicks shut behind NAUTILUS. You found yourself liking the old woman---and realise, belatedly, that she was the only partisan who wasn't at least a little afraid. Even the girl very obviously making eyes at CERULEAN had a hint of trepidation.
 

@@ -1,4 +1,4 @@
-## *chapter* FOURTH
+## <i>chapter</i> FOURTH
 
 CERULEAN opens her eyes - but they're not just her eyes, anymore. She's carrying something - someone - many someones. Their memories, their final intentions. Part of her, a little ball of desire and volition that could never be fulfilled, now furled somewhere around the base of her spine.
 

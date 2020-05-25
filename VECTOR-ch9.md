@@ -1,4 +1,4 @@
-## *chapter* NINTH
+## <i>chapter</i> NINTH
 
 VELVET opens her eyes.
 

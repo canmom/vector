@@ -1,4 +1,4 @@
-## *chapter* TENTH
+## <i>chapter</i> TENTH
 
 The train settles, its spindly legs retracting, the vast, battered sheets of insect carapace finally at rest.
 

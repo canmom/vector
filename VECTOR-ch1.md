@@ -1,4 +1,4 @@
-## *chapter* FIRST
+## <i>chapter</i> FIRST
 
 The VECTOR engine purrs softly in her hand, the wisp-thin blade of the sword leaving a trail of distortion as it moves. Snowflakes part as they touch it.
 

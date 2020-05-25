@@ -1,4 +1,4 @@
-## *chapter* SIXTH
+## <i>chapter</i> SIXTH
 
 CORAL opens her crusted eyes, with some difficulty. Her face itches. It must be absolutely coated in rheum and dried blood.
 

@@ -1,4 +1,4 @@
-## *chapter* FIFTH
+## <i>chapter</i> FIFTH
 
 The train rushes along its overhead wires in a squirming wave of tiny, white legs. It resembles nothing so much as a long millipede, with a bulbous passenger car implanted into each segment of its long, round body. All around, ligaments and hemolymph vessels mix indistinguishably with hydraulic pipes and electric wires. As it runs, hair-like cilia ripple in the gaps between the shell plates, pigments shifting through a series of adverts and propaganda. Each image is slightly blotchy, the artists apparently unwilling to pick symbols more appropriate to the medium.
 
