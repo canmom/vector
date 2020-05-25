@@ -270,7 +270,7 @@ Sounds like the State all right. "How terrible." CORAL says. "You want it destro
 
 Mote startles. "That's... you could *destroy* it? Just like that?"
 
-"Depends what's guarding it." CORAL shrugs, suddenly aware of her size compared to the rest of the tent. "If they have another VECTOR, might be tricky. If not... sure, not a thing!" She's never really massacred State civilians, at least not since blowing up the Furnace. But CORAL doesn't particularly care to make the distinction anymore. If they're holding her from OPHANIM and CERULEAN, if they're between her and revenge on NEMATODE...
+"Depends what's guarding it." CORAL shrugs, suddenly aware of her size compared to the rest of the people in the tent. "If they have another VECTOR, might be tricky. If not... sure, not a thing!" She's never really massacred State civilians, at least not since blowing up the Furnace. But CORAL doesn't particularly care to make the distinction anymore. If they're holding her from OPHANIM and CERULEAN, if they're between her and revenge on NEMATODE...
 
 "Well." Mote is clearly off-script at this point. "I was going to propose an act of sabotage, a warning if you will..."
 
