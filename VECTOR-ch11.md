@@ -110,7 +110,7 @@ Her eyes adjust quickly to the emergency lighting. She watches the State functio
 
 ANTEATER has never seen the inside of the mine, but somewhere there will be workers, and guards, and a cool underground space that isn't on the verge of collapse. Anywhere is better than out there.
 
-He dare not take the lift. The emergency stairway is, thankfully, lit by a dim lamp even when the power's failing. Down.
+He dare not take the lift. The emergency stairway is, thankfully, lit by a dim lamp even when the power's failing. Down. Two, three stairs at a time. Push off the handrail. *Down*.
 
 After two flights, he's already exhausted. His muscles seize up, at once too hot and too cold. Desperately, he gulps in air. It's not enough. His mouth is full of phlegm.
 
@@ -158,7 +158,7 @@ At the centre of the room is a cylinder of compacted earth, supported by a metal
 
 Her entrance has not gone unnoticed. A stream of Industrials are flocking out of the room, and between them, CORAL can spot the helmets of arbitrators hesitantly poking into the room. She drops the functionary, unceremoniously, and springs up onto the top of the column of soil. Up close, she can see the pipes run deep inside, from every direction---and that something inside is glittering.
 
-An arbitrator fires a burst, the bullets flying wide. Irrelevant. She kneels down... she should probably set about destroying everything in site, but she's never seen the State use a machine like this, even when she was amidst the furnaces...
+An arbitrator fires a burst, the bullets flying wide. Irrelevant. She kneels down... she should probably set about destroying everything in sight, but she's never seen the State use a machine like this, even when she was amidst the furnaces...
 
 The dead bodies seem to be transforming. Tiny metal threads, branching again and again...
 
@@ -216,9 +216,9 @@ Don't rise to it. Don't answer her. Just kill her.
 
 But CORAL finds herself laughing. "If you knew where to find her, you wouldn't waste time talking."
 
-That was rising to it. CORAL doesn't give the Engineer time to reply. She kicks her LANCE into full thrust, and cuts across the room with enough force to split the pipes under her feet. She punches through the metal cage, and then comes to an abrupt halt as her LANCE hits something a lot sturdier than dirt.
+That was rising to it! CORAL forces herself not to wait for a reply. She kicks her LANCE into full thrust, and cuts across the room with enough force to split the pipes under her feet. She punches through the metal cage, and then comes to an abrupt halt as her LANCE hits something a lot sturdier than dirt and bone.
 
-Cursing, CORAL vanishes the LANCE. She stares at the hole she's made... inside, the fractal metal needles knit together into a tight mass. A huge slug of iron, statue-fossils wrapped in corpse flesh. One LANCE charge won't be enough. She needs a better plan... what's in those pipes?
+Cursing, CORAL vanishes the LANCE. She stares at the hole she's made... inside, the metal needles knit together into a tight mass, like the roots of a tree. A huge slug of iron, statue-fossils wrapped in corpse flesh. One LANCE charge won't be enough. She needs a better plan... what's in those pipes?
 
 Chrysopoeia walks up behind her, clapping slowly. "You VECTORs... so headstrong! You think you can comb the mountains on your own? Do you even know where you are?"
 
@@ -250,9 +250,9 @@ CORAL shrugs. "One thing at a time. Maybe there won't be a State, by the time th
 
 Cirrina takes a deep breath. "I see. So that's what it takes to see my... daughter? Blowing up this town?"
 
-CORAL nods. "That's what it takes."
+CORAL's smile is without humour. "That's what it takes."
 
-Cirrina takes a long breath. She considers. And she answers:
+Cirrina takes another breath. She considers. And she answers:
 
 "Very well."
 
@@ -262,7 +262,7 @@ The control room was supposed to be guarded, but the guards abandoned their post
 
 As she reaches the console, the blasphemy of her actions becomes almost too much to bear. But Engineering requires a weighing of evils by its nature. NEMATODE promised to exonerate her of all wrongdoing, anything to sell the ruse and bring them closer to OPHANIM. Should this VECTOR cancer be left unchecked, the loss of one such town would be the least of the State's problems. It's already far too close to metastasis.
 
-So Cirrina does as she is bid. Eight crucibles, each one steadily transforming dead flesh into fresh, living metal. A reaction that must be carefully controlled, lest its waste products corrupt the output. A masterpiece of Engineering, a delicate balancing act. Her pride and joy.
+So Cirrina does as she is bid. Eight crucibles, each one steadily transforming dead flesh into fresh, living metal. A reaction that must be carefully controlled, lest its waste products corrupt the output. A masterpiece of Engineering, a delicate balancing act. Her predecessor's pride and joy.
 
 And it comes apart all so easily.
 
@@ -284,25 +284,35 @@ Cirrina despises her all the more. Nothing so evil has a right to the noble curi
 
 The smell is overwhelming, even before she reaches the crucible chamber. CORAL has smelled death before, in many different flavours, but never something like this.
 
-She expected the pipes and walls to turn into something like skin, or meat. She did not expect them to turn into human bodies, packed tightly, layer upon layer. Looking closer, they're not quite right: some tiny, some enormous, some with too many limbs, twisted spines, inappropriate symmetries, faces in places that shouldn't have faces. The outlines of the machinery disappear into the mass of bodies. Which ones were real humans and which the product of the process is impossible to say.
+She expected the pipes and walls to turn into something like skin, or meat. She did not expect them to turn into human bodies, packed tightly, layer upon layer.
 
-But her VECTOR sense lets her see something else. The radiation is intense---'inside of the furnace' intense. Instinctively, she backs away.
+CORAL stares. Her eyes glide over the growing mass of corpses, failing to find purchase. No, they're not quite right: some tiny, some enormous, some with too many limbs, twisted spines, inappropriate symmetries, faces in places that shouldn't have faces. The forms of machines disappear, lost in the necrotic fractal. Which ones were real humans and which the product of the process is already impossible to say.
+
+The boundary reaches an arbitrator, and the metal buckles on his uniform turn into a braided chain of tiny headless people. His gun gains a new set of teeth.
+
+And... And. CORAL's VECTOR senses let her see something else. The radiation is intense---'inside of the furnace' intense. Just like with Rugosa. She flinches away.
 
 This is what she wanted, right?
 
-Behind her, Cirrina speaks dispassionately. "I suggest we don't remain here long. The structural integrity of this facility is not likely to hold..."
+Behind her, Cirrina speaks in a strained voice. "I suggest we don't remain here long. The structural integrity of this facility is not likely to hold..." Trying so hard to sound dispassionate, even faced with this...
 
-Ahead, the corpses are already dessicating and decaying, though there can surely be no bacteria who act so quickly. A ceiling falls down, creating a sick 'plop'.
+The corpses are already dessicating and decaying, though there can surely be no bacteria who act so quickly. A ceiling panel falls down, creating a sick 'plop'. Where it lands, it creates a new island of bony arms and emaciated ribs.
 
-CORAL grabs the Engineer and lifts her up. No more need for swords. "Which way?"
+No more time for words. CORAL grabs the Engineer and lifts her up. "Which way?" she hisses. Cirrina replies with curt directions, and CORAL *runs*.
 
-The Engineer's directions are succinct. Soon, CORAL is on the stairwell, bounding up in a few quick leaps. Another few turns and she reaches the exit. She carves it open with her BLADE and sprints out into the night. Her fire is still burning, and soon it will have a *great* deal more fuel.
+A moment later, she's back in the stairwell, bounding up in a few quick leaps. Below her, metal groans and gives way. The stench is almost thick enough to cut.
 
-She reaches the airfield. Most of the landing pads are empty. One squat grey craft remains, a simple design of swept wings and a bulbous cockpit. Cirrina doesn't need to point it out. CORAL races down the runway, and skids to a halt in front of the aircraft.
+She won't look back.
 
-Behind her, a loud groaning suggests the collapse has begun.
+Another few turns to open air. She carves the door open with her BLADE and flings herself out, gasping in night air that, however laden with ash, at least does not carry *that smell*.
 
-She drops off the engineer. Cirrina dusts herself off primly, then draws a silver cylinder from her sleeve and inserts it into the lock. "My personal aircraft." she says simply. "A perk of the job... alas, aeronauticals is not my field, so this is mostly off-the-shelf."
+The engineer vomits, a sick, wet sound. No time to check on her. CORAL's fire is still burning, and soon it will have a *great* deal more fuel. She springs up, shifts Cirrina over her shoulder, and dashes for the airfield.
+
+Most of the landing pads are empty. One squat grey craft remains, a simple design of swept wings and a bulbous cockpit. Cirrina doesn't need to point it out. CORAL doesn't stop running, races down the runway, skids to a halt in front of the aircraft.
+
+Behind her, a groan of metal like the belch of a giant. CORAL glances back just long enough to see a section of the huge chimney slump and disappear into its own oily smoke.
+
+She drops off the engineer. Cirrina dusts herself off primly, wipes away the vomit, then draws a silver cylinder from her sleeve and inserts it into the lock. "My personal aircraft." she says, her voice still weak. "A perk of the job... alas, aeronauticals is not my field, so this is mostly off-the-shelf."
 
 CORAL climbs in after her. The cockpit is cramped, filled with pipes and cables. In the centre is a kind of glass shell... Cirrina taps on it, and suddenly a face appears in the murk behind. "My pilot, at least, is custom... my colleague Theosebeia made him. Get us out of here if you will, Zygo?"
 
@@ -310,21 +320,23 @@ The door closes of its own accord. Straps abruptly emerge from the seats. CORAL 
 
 So that's CHIASMUS's other mother, Eledone. Not much resemblance. Most likely how she wanted it.
 
-CORAL does not like this at all. But if she's to have a chance at finding OPHANIM...
+CORAL does not like this at all.
 
-She turns to the Engineer. "Before we go to the mountains... I have an appointment to keep. Information to help us get started. Can you take us south?"
+She slumps in her seat, turns her head to the Engineer. "Before we go to the mountains... I have an appointment to keep. Information to help us get started. Can you take us south?"
 
-Cirrina raises an eyebrow, but does not object. She says some instructions to 'Zygo', and the craft catapults itself into the air, straight upwards. The town falls away, a circle of speckled fire... and with a massive 'whump', the central furnace gives way as its foundations dissolve.
+Cirrina raises an eyebrow, but does not object. She passes the instructions to 'Zygo', and the craft catapults itself into the air, straight upwards. The town falls away, a circle of speckled fire... and with a massive 'whump', the central furnace gives way as its foundations dissolve.
 
-CORAL can almost imagine she can already see the burning not-human corpses. Not yet, right? Not yet.
+CORAL can almost imagine she can already see the burning not-human corpses. Not yet, right? Surely not yet.
 
 The jet turns away, and the image is gone. In one day, she's killed... how many people? Nobody will ever know.
 
-And she's only begun. Let NEMATODE witness this horror. Let her know what's coming...
+And she's barely begun. Let NEMATODE witness this horror. Let her know what's coming...
 
 ---
 
-ANTEATER sits in the holding cell, eyes pointedly open. He dare not close them. The images will come, again... the burning, melting corpses, corpses that never lived; the souls of metal, made flesh.
+ANTEATER sits in the holding cell, eyes pointedly open, still not entirely sure he's alive. He dare not close them. The images will come, again... the burning, melting corpses, corpses that never lived; the souls of metal, made flesh.
+
+Horrifying, yes? But that's not why he's afraid. Something about them is... enticing.
 
 The Investigator closes her pen with a snap. "Thank you, ANTEATER. A very thorough account. And despite all that... you want to become an Engineer?"
 
@@ -334,6 +346,6 @@ The meal is cleared away. CERULEAN nuzzles against you, calmer now than she has 
 
 (Almost.)
 
-Then, CARIBOU had run over, not hiding her deep worry. She'd pulled you and CERULEAN aside, along with everyone else from the train---Viv, Nauts, the kids. Not to mention a few VECTORs you don't know.
+Then, CARIBOU runs over, not hiding her deep worry. With a few quiet words, she pulls you and CERULEAN aside, and there you see all your new friends from the train---Viv, Nauts, the kids. Not to mention a few VECTORs you don't know.
 
 CARIBOU pulls out a hand terminal, a newsreel playing fuzzily on its tiny screen. "You're going to want to see this." she says. "It's about CORAL."
