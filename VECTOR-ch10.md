@@ -268,27 +268,27 @@ Mote nods slowly, and says something in their own language. One of the other nom
 
 Sounds like the State all right. "How terrible." CORAL says. "You want it destroyed?"
 
-Mote startles. "That's... you could *destroy* it? Just like that?"
+Mote startles. "That's... you would *destroy* it? Just like that?"
 
 "Depends what's guarding it." CORAL shrugs, suddenly aware of her size compared to the rest of the people in the tent. "If they have another VECTOR, might be tricky. If not... sure, not a thing!" She's never really massacred State civilians, at least not since blowing up the Furnace. But CORAL doesn't particularly care to make the distinction anymore. If they're holding her from OPHANIM and CERULEAN, if they're between her and revenge on NEMATODE...
 
 "Well." Mote is clearly off-script at this point. "I was going to propose an act of sabotage, a warning if you will..."
 
-CORAL shakes her head. How can they be this naive? "This is the State. Mark yourself as their enemy, and they'll kill you. All of you. They'll put you in that hole in the ground, and turn you into something like, well..." The other three girls. Is she really invoking them as rhetoric, as monsters to be feared? What is she becoming? It's too late to un-say those words. "But if a rogue VECTOR, acting alone, goes on a rampage... well, they'll be chasing me, but!" She grins as nastily as she can manage. "They're doing that anyway."
+CORAL shakes her head. What a noble sentiment. "This is the State. Right now, you're a nuisance. Make yourself a threat, they'll kill you. All of you. They'll put you in that hole in the ground, and turn you into something like, well..." The other three girls. Is she really invoking them as rhetoric, as monsters to be feared? What is she becoming? It's too late to un-say those words. "But if a rogue VECTOR, acting alone, goes on a rampage... well, they'll be chasing me, but!" She grins as nastily as she can manage. "They're doing that anyway."
 
-"If you would allow me to discuss this." She's disturbed Mote now, speaking so easily of violence. CORAL turns to the three girls from NEMATODE's lab. They've been skittish all evening, uncomfortable with the people and noise. Now, they don't meet her gaze.
+"If you would allow me to discuss this." She's disturbed Mote now, speaking so easily of massacring a town. CORAL turns to the three girls from NEMATODE's lab. They've been skittish all evening, uncomfortable with the people and noise. Now, they don't meet her gaze.
 
 Not really VECTORs after all, are they? a quiet voice in her head whispers.
 
 ---
 
-NEMATODE opens her eyes, lets out a shuddering breath. What she just did to POLYTOPE... her most loyal student, the one who didn't flee when given the opportunity. And here is her punishment. Is it a mercy that she POLYTOPE has not been equipped to transmit back to her, that she can't tell what the Director is doing with her toy? The weapon would hardly work if NEMATODE had to directly command each of her new clone-slaves, but ignorance is a problem.
+NEMATODE opens her eyes, lets out a shuddering breath. What she just did to POLYTOPE... her most loyal student, the one who didn't flee when given the opportunity. And here is her punishment. Is it a mercy that POLYTOPE has not been equipped to transmit back to her, that she can't tell what the Director is doing with her toy? The weapon would hardly work if NEMATODE had to directly command each of her new clone-slaves, but ignorance is a problem.
 
 First, they must gather information. With her 'weapon', NEMATODE can seize the rebellion, turn it from an anarchic rabble into a machine poised to seize real control. The heaving, capsizing State can be righted, the civil war ended, and NEMATODE can make everything as it *ought* to have been from the start.
 
 But first she has to deal with the Director. She must have a weakness... the obvious answer would be to shoot her with the new weapon, but NEMATODE can't tell whether the system would work, and there's no more room for failure. Someone had to get close enough to study her. POLYTOPE could see the logic, she volunteered... and everything had gone according to plan. Step by horrific step.
 
-The weapon was approved, of course. Ultimately, whether or not it fit the Director's philosophical speculation, its potential to tame the rebellion was too great. And now, unfortunately, she has to manufacture some more of the bullets. A lot more: 'one for every Arbitrator squad'.
+The weapon was approved, of course. Ultimately, whether or not it fit the Director's philosophical speculation, its potential to tame the rebellion was too great. And now, unfortunately, she has to manufacture some more of the bullets. A lot more: 'a magazine for every Arbitrator squad'.
 
 "Are you all right, sir?" A technician, standing by. NEMATODE hasn't bothered to learn her name.
 
