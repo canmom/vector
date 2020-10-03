@@ -3,6 +3,7 @@ body {
   background-color: #191919;
   color: #DDD;
   font-size: 15pt;
+  margin: 0;
 }
 main {
   max-width: 850px;
