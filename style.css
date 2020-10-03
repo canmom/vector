@@ -4,7 +4,7 @@ body {
   color: #DDD;
   font-size: 15pt;
 }
-article {
+main {
   max-width: 850px;
   margin-left: auto;
   margin-right: auto;
