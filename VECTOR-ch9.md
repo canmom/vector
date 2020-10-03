@@ -56,7 +56,7 @@ She stares at her face, squinting slightly. It's been looking increasingly odd, 
 
 What *was* that, anyway? It couldn't be a Furnace --- the weight and space requirements would be impossible, not to mention the expense. But to move that much muscle and metal must take *some* kind of power source... CORAL would surely be able to explain it, but CORAL is not here. Perhaps one of the Industrials on the train... no doubt it's already come up in one of NAUTLIUS's long, rambling tours.
 
-Too many questions, rattling around in her head like coins in a drum. But it helps to think about those, and not the much thornier question: what would she say to the other VECTORs they were travelling to see, and how in fuck is she going to rescue CORAL? It's all too much, and CORAL has been sleepwalking throug her days, eating only lightly, answering questions minutes after they're spoken. CHIASMUS has been holding her, helping where she can, but there's only so much she can do.
+Too many questions, rattling around in her head like coins in a drum. But it helps to think about those, and not the much thornier question: what would she say to the other VECTORs they were travelling to see, and how in fuck is she going to rescue CORAL? It's all too much, and CERULEAN has been sleepwalking throug her days, eating only lightly, answering questions minutes after they're spoken. CHIASMUS has been holding her, helping where she can, but there's only so much she can do.
 
 Perhaps she could ask them for help. Since they're along for the ride.
 

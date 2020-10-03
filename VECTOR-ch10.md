@@ -102,7 +102,7 @@ Floating in the tank, in a fluid very similar to what she saw in the vesicle, is
 
 She feels her mouth open, a question forming... No. She forces herself to close it and stand like this is perfectly normal. No doubt OPHANIM will be judging her by her reaction.
 
-CHIASMUS has no such consumptions. "Oh." she says. "OK, what the fuck?"
+CHIASMUS has no such compunctions. "Oh." she says. "OK, what the fuck?"
 
 Thankfully, OPHANIM takes no offence---at least one of her seems to find it hilarious. A distorted voice emerges from a bank of speakers below the tank.
 
@@ -210,7 +210,7 @@ She steps out of the machine room. You move to follow, but then---hold on. The O
 
 What?
 
-But CERULEAN starts to laugh, a little ruefully. "Lay bear all my secrets, why don't you?" she says. "How can you tell?"
+But CERULEAN starts to laugh, a little ruefully. "Lay bare all my secrets, why don't you?" she says. "How can you tell?"
 
 OPHANIM cackles. "Wouldn't you like to know?" Another one pipes up. "Intuition. A pattern in your radiation. You get used to this sort of thing, when you're fighting long enough."
 
