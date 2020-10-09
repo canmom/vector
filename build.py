@@ -109,5 +109,5 @@ for index, chapter in enumerate(chapters):
 
 subprocess.check_call(['pandoc', 'epub-meta.txt', *[chapter.source_file for chapter in chapters], '-o', 'VECTORch1-{}.epub'.format(args.nChapters), '--epub-chapter-level=2', '--top-level-division=chapter'])
 print('Generated ePub')
-subprocess.run(['zip', 'VECTORch1-{}.zip'.format(args.nChapters), *[chapter.target for chapter in chapters], 'index.html', 'style.css', 'epub-cover.png', 'logo.svg'])
+subprocess.run(['zip', 'VECTORch1-{}.zip'.format(args.nChapters), *[chapter.target for chapter in chapters], 'index.html', 'style.css', 'illustration2.png', 'logo.svg'])
 print('Zipped HTML')

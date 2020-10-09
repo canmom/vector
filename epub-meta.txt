@@ -3,5 +3,5 @@ title: VECTOR
 author: Bryn Dickinson
 rights: © 2020 Bryn Dickinson
 language: en-GB
-cover-image: epub-cover.png
+cover-image: illustration2.png
 ---
