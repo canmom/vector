@@ -178,9 +178,9 @@ Your vision fades to black.
 
 CERULEAN and CORAL are lying in the snow in a tangle of limbs and fluids when they notice.
 
-CORAL's fingers are pressing either side of CERULEAN's spine, her other hand moving up CERULEAN's inner thigh. She's cut open CERULEAN's uniform in one quick stroke (her occupant's injuries disappearing almost immediately - it's known that VECTORs heal most quickly when they're aroused), and her tongue is now hovering a few tantalising millimetres from CERULEAN'S nipple. CERULEAN, for her part, is supporting CORAL's with her arm, already breathing heavily...
+CORAL's fingers are pressing either side of CERULEAN's spine, her other hand moving up CERULEAN's inner thigh. She's cut open CERULEAN's uniform in one quick stroke (her occupant's injuries disappearing almost immediately - it's known that VECTORs heal most quickly when they're aroused), and her tongue is now hovering a few tantalising millimetres from CERULEAN'S nipple.
 
-A few metres away, a loud crack sound to interrupt them - the exact sound of someone's spine rapidly being extended and reinforced. The two VECTORs reluctantly roll apart and stand with their BLADEs pointed at the writhing shape on the floor.
+A few metres away, a loud *crack!* interrupts them - the exact sound of someone's spine rapidly being extended and reinforced. The two VECTORs reluctantly roll apart and stand with their BLADEs pointed at the writhing shape on the floor.
 
 "He didn't..." says CERULEAN, staring at the figure with her own arm attached, bizarrely reversed, to its arm. The figure whose breasts are growing in as she watches, whose skin is changing texture before her eyes...
 
