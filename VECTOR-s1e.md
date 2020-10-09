@@ -4,7 +4,7 @@
 
 Cirrina looks up from the computer with bleary eyes. Shakes her head. There are large bags under her eyes, a fuzz of unshaven hair starting to cover her Engineer's tatoos. Eledone moves towards her, gently rests a hand on her shoulder. The movement causes one of the nearby piles to collapse, scattering Jermaine's belongings all over the floor.
 
-On the screen, a message board---something or other to do with the VECTORs. The light of the screen casts everything in soft shades of green. Eledone has been avoiding the news - though it's impossible to miss the broad strokes. Rebel VECTORs attacked, somehow igniting the shattered FURNACE on the outskirts of town. A roadway collapsed, by unknown means. The provincial Governor, and the commander of the Arbitrators, both resigned in disgrace. Checkpoints on each major street, as if they'd be anything but an inconvenience to a VECTOR. Anti-FURNACE protests, a curfew.
+On the screen, a message board---something or other to do with the VECTORs. The light of the screen casts everything in soft shades of green. Eledone has been avoiding the news, though it's impossible to miss the broad strokes. Rebel VECTORs attacked, somehow igniting the shattered FURNACE on the outskirts of town. A roadway collapsed, by unknown means. The provincial Governor and the commander of the Arbitrators both resigned in disgrace. Checkpoints on each major street, as if they'd be anything but an inconvenience to a VECTOR. Anti-FURNACE protests, a curfew.
 
 Who gives a shit about any of that, though?
 
