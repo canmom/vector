@@ -328,7 +328,7 @@ She does not answer. Eventually you have to storm off, just to clear the tension
 
 This night is *weird*. It almost feels like a fever dream. CORAL's back in the group, after all those months alone, dressed once again in borrowed clothes (there are kids present, incomprehensibly.)
 
-Cirrina has somehow run into Jermaine, and they both look miserable. CORAL will have to pry the story out of her later, once they've caught up... and there's a *lot* of catching up to do. She still can't handle what she heard about CROSSROADS. Or that this gaggle of young VECTORS is actually, somehow, the pillar girls in that road. It seems too good to be true.
+Cirrina has somehow run into CHIASMUS, and they both look miserable. CORAL will have to pry the story out of her later, once they've caught up... and there's a *lot* of catching up to do. She still can't handle what she heard about CROSSROADS. Or that this gaggle of young VECTORS is actually, somehow, the pillar girls in that road. It seems too good to be true.
 
 "So." CORAL says, for maybe the fifth time. "She's like... down there? Right now? A VECTOR train? God, NEMATODE would kill to figure that one out..."
 
