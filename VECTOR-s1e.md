@@ -10,7 +10,7 @@ Who gives a shit about any of that, though?
 
 Jermaine is gone. There are two possibilities. Both are too terrible to consider. Perhaps he made good on his dreams of running away---presumably to pursue his incomprehensible, immature obsession with the VECTOR program. Or perhaps he died in the fighting. Either way, given the strings Eledone had to pull to keep his application from being accepted, it is hard to shake the feeling that this is very much her fault.
 
-Cirrina pushes her hand away. "Not now." She stands, and makes to pick up some of the scattered detritus. VECTOR figurines, dubious patriotic magazines and rotting, equally dubious seditionist pamphlets, a startling amount of drug paraphernalia. It's not like he never made his obsessions clear. Would he have grown up normally, in a creche with the other children? Did she and Cirrina doom him through isolation?
+Cirrina pushes her hand away. "Not now." She stands, and makes to pick up some of the scattered detritus. VECTOR figurines, dubious patriotic magazines and rotting, equally dubious seditionist pamphlets, a startling amount of drug paraphernalia. It's not like he never made his obsessions clear. Would he have grown up normally, in a crèche with the other children? Did she and Cirrina doom him through isolation?
 
 Eledone steps in to help Cirrina clean up. Some of the material was taken as evidence by the Investigator---though evidence of *what*, she's far from sure. The rest, they should put away in boxes somewhere. Put the housing unit back in some semblance of order.
 
